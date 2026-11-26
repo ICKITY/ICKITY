@@ -1,0 +1,134 @@
+{
+  "slug": "general-relativity",
+  "title": "General Relativity",
+  "category": "Science",
+  "subcategory": "Physics",
+  "path": "/science/physics/general-relativity",
+  "summary": "General relativity is Albert Einstein's theory of gravity, which describes gravitation as the curvature of spacetime by mass and energy and remains the foundation of modern cosmology.",
+  "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Einstein%20field%20equations.svg",
+  "thumbnailCaption": "The Einstein field equations, the mathematical heart of general relativity.",
+  "infobox": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Einstein%20field%20equations.svg",
+    "caption": "The Einstein field equations relate the curvature of spacetime to the energy and momentum within it. Public domain diagram via Wikimedia Commons.",
+    "rows": [
+      {
+        "label": "Proposed",
+        "value": "1915, by Albert Einstein"
+      },
+      {
+        "label": "Field equations",
+        "value": "Presented 25 November 1915"
+      },
+      {
+        "label": "Core idea",
+        "value": "Gravity is the curvature of spacetime"
+      },
+      {
+        "label": "Predecessor",
+        "value": "Newtonian gravitation, 1687"
+      },
+      {
+        "label": "Key predictions",
+        "value": "Mercury precession, light bending, gravitational redshift, black holes, gravitational waves"
+      },
+      {
+        "label": "First confirmation",
+        "value": "Eddington eclipse expedition, 1919"
+      },
+      {
+        "label": "Related topics",
+        "value": "<a class='wiki-link' href='/biography/scientists/albert-einstein'>Albert Einstein</a>, <a class='wiki-link' href='/science/astronomy/black-holes'>Black Holes</a>"
+      }
+    ]
+  },
+  "intro": [
+    "General relativity is the theory of gravity published by <a class='wiki-link' href='/biography/scientists/albert-einstein'>Albert Einstein</a> in 1915, and it is one of the most successful and beautiful theories in the history of science. Where Isaac Newton had described gravity as an invisible force pulling objects toward one another across empty space, Einstein described it as a property of space and time themselves. Mass and energy curve the fabric of spacetime, and objects move along the curves of that geometry. The planets orbit the sun not because they are pulled by a force, but because they follow the straightest possible paths through curved spacetime.",
+    "The theory grew from a single insight: that gravity and acceleration are indistinguishable. Einstein later called it the happiest thought of his life. If a person in a sealed room cannot tell whether the room is resting on Earth or accelerating through space, then gravity must be equivalent to acceleration, and the laws of physics must be the same in all frames of reference. From this equivalence principle, Einstein spent eight years building a mathematical framework of extraordinary complexity, drawing on Riemannian geometry, tensor calculus, and the special theory of relativity he had published in 1905.",
+    "General relativity has been confirmed by every test applied to it for more than a century. It explains the anomalous precession of Mercury's orbit, the bending of starlight during solar eclipses, the slowing of clocks in gravitational fields, the existence of <a class='wiki-link' href='/science/astronomy/black-holes'>black holes</a>, and the ripples in spacetime called gravitational waves, detected directly in 2015. It is also the foundation of modern cosmology, the science of the universe as a whole, and the technology behind satellite navigation, whose clocks must be corrected for relativistic effects to function at all."
+  ],
+  "sections": [
+    {
+      "level": "h2",
+      "heading": "The Equivalence Principle",
+      "paragraphs": [
+        "The starting point of general relativity is the equivalence principle, the observation that there is no local experiment that can distinguish between gravity and acceleration. A person standing on Earth feels a force pulling them down; a person in a rocket accelerating at the same rate in deep space feels an identical force. Einstein elevated this observation into a physical law: gravity is not a force at all, but a manifestation of the geometry of spacetime, and the effects of gravity are exactly those of an accelerated frame of reference.",
+        "The equivalence principle had been foreshadowed by Galileo, who showed that all objects fall at the same rate regardless of their mass, and by Newton, who verified that gravitational mass and inertial mass are the same quantity to extraordinary precision. Einstein saw that this equality could not be a coincidence. If the mass that resists acceleration is the same as the mass that responds to gravity, then gravity must be woven into the structure of space and time, and a theory of gravity must be a theory of geometry.",
+        "From the equivalence principle, Einstein derived the conclusion that clocks and rulers behave differently in gravitational fields. Time itself flows at different rates depending on where you are: a clock on a mountaintop ticks faster than a clock in a valley, and a clock near a massive star ticks slower still. This gravitational time dilation, once a philosophical curiosity, is now measured daily by the atomic clocks aboard navigation satellites, which would drift by kilometres each day if relativistic corrections were ignored."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Spacetime and Curvature",
+      "paragraphs": [
+        "Special relativity, published by Einstein in 1905, had already united space and time into a single four-dimensional continuum called spacetime, and had shown that the speed of light is the same for all observers. General relativity extends this union by making spacetime dynamic: it can curve, stretch, and ripple under the influence of mass and energy. The famous image of a bowling ball deforming a trampoline is a popular analogy, but it is misleading in one respect — the curvature of spacetime is not curvature within space, but curvature of the four-dimensional geometry itself.",
+        "The geometry of general relativity is described by the Einstein field equations, a set of ten coupled nonlinear partial differential equations that relate the curvature of spacetime to the distribution of mass and energy within it. The left side of the equations describes geometry; the right side describes matter and energy. The equations are among the most complex in physics, and their exact solutions are known only for highly symmetric situations, such as the spacetime around a spherical mass or a rotating <a class='wiki-link' href='/science/astronomy/black-holes'>black hole</a>.",
+        "Objects in general relativity do not experience forces in the Newtonian sense. Instead, they follow geodesics, the straightest possible paths through curved spacetime. The Earth orbits the sun because the sun's mass curves the spacetime around it, and the Earth travels in a straight line through that curved geometry. The moon orbits the Earth for the same reason. Gravity, in this view, is not a pull but a path: matter tells spacetime how to curve, and spacetime tells matter how to move."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "The Field Equations and Their Solutions",
+      "paragraphs": [
+        "Einstein presented the field equations to the Prussian Academy of Sciences in November 1915, after years of struggle with the mathematics. The equations state that the curvature of spacetime at any point is determined by the energy and momentum of matter and radiation at that point. They are a precise, quantitative statement of the idea that mass tells spacetime how to curve. Their derivation required the full machinery of tensor calculus, a branch of mathematics that Einstein had to learn from his friend Marcel Grossmann, who later recalled that Einstein had been amazed to learn that mathematicians had developed the necessary tools decades earlier.",
+        "The first exact solution was found within weeks by Karl Schwarzschild, who described the spacetime around a non-rotating spherical mass. The Schwarzschild solution contains a remarkable feature: a radius at which the curvature becomes infinite, now known as the Schwarzschild radius. If a mass is compressed within its Schwarzschild radius, nothing, not even light, can escape, and the result is a <a class='wiki-link' href='/science/astronomy/black-holes'>black hole</a>. The theory that Einstein built to explain Mercury's orbit thus contained, hidden in its mathematics, the most extreme objects in the universe.",
+        "Later solutions enriched the theory further. The Kerr solution describes rotating <a class='wiki-link' href='/science/astronomy/black-holes'>black holes</a>. The Friedmann solutions describe expanding universes, providing the mathematical foundation of the Big Bang cosmology. The theory also predicts that accelerating masses should emit ripples in spacetime — gravitational waves — and that rapidly rotating neutron stars should be detectable through their effects. Each solution is a universe in miniature, and each has been tested against observation."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Experimental Confirmations",
+      "paragraphs": [
+        "The first great confirmation of general relativity came in 1919, when Arthur Eddington's eclipse expedition observed that starlight passing near the sun was deflected by exactly the amount Einstein had predicted. The announcement made Einstein world-famous overnight and is often called the most dramatic moment in the history of science: a theory published four years earlier, confirmed by a single photograph of stars during a total eclipse. The deflection of light had been predicted by Newton as well, but Einstein's value was twice as large, and the observation matched Einstein.",
+        "Subsequent tests have refined the agreement to extraordinary precision. The precession of Mercury's perihelion, unexplained by Newtonian gravity for centuries, matches Einstein's prediction. The gravitational redshift of light from the sun and from white dwarf stars has been measured. The Pound-Rebka experiment of 1959 detected gravitational time dilation in a tower at Harvard. The Hulse-Taylor binary pulsar, discovered in 1974, loses orbital energy at exactly the rate predicted for gravitational wave emission, and its discovery earned the Nobel Prize in Physics.",
+        "The most spectacular confirmation arrived in 2015, when the LIGO observatories detected gravitational waves from the merger of two <a class='wiki-link' href='/science/astronomy/black-holes'>black holes</a>, a century after Einstein predicted them and fifty years after their existence was indirectly confirmed. The detection opened an entirely new window on the universe: gravitational wave astronomy, which observes the cosmos through ripples in spacetime rather than light. General relativity, born as an abstract mathematical theory, had become an observational science."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Black Holes, Cosmology, and the Expanding Universe",
+      "paragraphs": [
+        "General relativity transformed cosmology from philosophy into science. When Einstein applied his equations to the universe as a whole, he found that a static universe was impossible: the equations demanded either expansion or contraction. Reluctant to accept an expanding universe, he added a cosmological constant to force the equations to describe a static cosmos. Edwin Hubble's discovery of galactic recession in 1929 showed that the universe is indeed expanding, and Einstein later called the cosmological constant his greatest blunder. Modern cosmology, however, has revived a form of it as dark energy, the mysterious force driving the accelerated expansion of the universe.",
+        "The theory also predicts the most extreme objects known to science. <a class='wiki-link' href='/science/astronomy/black-holes'>Black holes</a>, first glimpsed in the mathematics of the Schwarzschild solution, are now observed throughout the universe: stellar black holes in binary systems, supermassive black holes at the centres of galaxies, and the shadow of the black hole in the galaxy M87, photographed by the Event Horizon Telescope in 2019. Each of these objects is a region where spacetime is curved so severely that the geometry itself becomes a trap. The <a class='wiki-link' href='/science/astronomy/black-holes'>black hole</a> is general relativity's most dramatic prediction, and its most thoroughly confirmed.",
+        "General relativity also frames the deepest questions in modern physics. The singularities at the centres of <a class='wiki-link' href='/science/astronomy/black-holes'>black holes</a> and at the origin of the universe mark the points where the theory breaks down, indicating that a quantum theory of gravity is needed. The search for that theory — through string theory, loop quantum gravity, and other approaches — is the central unfinished project of fundamental physics. The theory that Einstein completed in 1915 remains, a century later, the framework within which its own successor must be found."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Everyday Relativity: Technology and Daily Life",
+      "paragraphs": [
+        "General relativity is not confined to the extremes of <a class='wiki-link' href='/science/astronomy/black-holes'>black holes</a> and cosmology. It operates in the everyday world, and modern technology depends on it. The Global Positioning System satellites orbit at about twenty thousand kilometres altitude, where gravitational time dilation and special relativistic effects combine to make their clocks run faster than clocks on Earth. Without relativistic corrections, GPS would accumulate errors of about ten kilometres per day and would be useless for navigation. The system works because engineers apply Einstein's equations to the clocks.",
+        "Relativity also shapes the design of particle accelerators, the interpretation of astronomical observations, and the modelling of the <a class='wiki-link' href='/science/astronomy/solar-system'>solar system</a>, whose planets follow Einsteinian orbits to high precision. The Mercury spacecraft's mission to the innermost planet required relativistic corrections to its navigation. Even the concept of simultaneity, which underlies the coordination of global communications networks, is relativistic: there is no universal now, only a now for each observer.",
+        "The biography of the theory's creator is inseparable from its history. <a class='wiki-link' href='/biography/scientists/albert-einstein'>Albert Einstein</a> built general relativity from a single thought about falling men and accelerated rooms, and the theory has since become the language in which the universe is described. It remains, in the words of many physicists, the most beautiful theory ever constructed — and the most thoroughly tested. Its predictions continue to be confirmed at every new frontier, from gravitational waves to the shadows of <a class='wiki-link' href='/science/astronomy/black-holes'>black holes</a>, and it stands as the crowning achievement of classical physics."
+      ]
+    }
+  ],
+  "pullQuote": {
+    "text": "Matter tells spacetime how to curve, and spacetime tells matter how to move.",
+    "source": "John Archibald Wheeler, physicist"
+  },
+  "media": [
+    {
+      "type": "image",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Gravitational%20lens%20simulation.jpg",
+      "caption": "Simulation of gravitational lensing, in which a massive galaxy bends the light of background galaxies. Public domain image via Wikimedia Commons."
+    },
+    {
+      "type": "video",
+      "src": "https://www.youtube-nocookie.com/embed/qf6sU76f1n4",
+      "caption": "Documentary: Einstein's General Theory of Relativity Explained. Embedded from YouTube."
+    }
+  ],
+  "seeAlso": [
+    "/biography/scientists/albert-einstein",
+    "/science/physics/quantum-mechanics",
+    "/science/astronomy/black-holes",
+    "/science/astronomy/solar-system"
+  ],
+  "references": [
+    "Einstein, Albert. The Field Equations of Gravitation. Sitzungsberichte der Preussischen Akademie der Wissenschaften, 1915.",
+    "Schwarzschild, Karl. On the Gravitational Field of a Mass Point. 1916.",
+    "Thorne, Kip S. Black Holes and Time Warps: Einstein's Outrageous Legacy. W. W. Norton, 1994.",
+    "Will, Clifford M. The Confrontation Between General Relativity and Experiment. Living Reviews in Relativity, 2014.",
+    "NASA Science, General Relativity resources, science.nasa.gov."
+  ]
+}

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="InkCraft Library logo">
+  <defs>
+    <linearGradient id="inkGold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f2c14e"/>
+      <stop offset="1" stop-color="#b8860b"/>
+    </linearGradient>
+    <linearGradient id="inkNavy" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#13294b"/>
+      <stop offset="1" stop-color="#0b1d3a"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="640" height="360" rx="18" fill="url(#inkNavy)"/>
+  <rect x="10" y="10" width="620" height="340" rx="12" fill="none" stroke="#f2c14e" stroke-width="2"/>
+  <g transform="translate(320,128)">
+    <path d="M -120 -58 C -84 -74 -44 -74 0 -56 C 44 -74 84 -74 120 -58 L 120 52 C 84 36 44 36 0 54 C -44 36 -84 36 -120 52 Z" fill="#f7f3e8" stroke="#f2c14e" stroke-width="4"/>
+    <path d="M 0 -56 L 0 54" stroke="#b8860b" stroke-width="3"/>
+    <path d="M -104 -40 C -76 -50 -46 -50 -16 -40" fill="none" stroke="#13294b" stroke-width="3" stroke-linecap="round"/>
+    <path d="M -104 -22 C -76 -32 -46 -32 -16 -22" fill="none" stroke="#13294b" stroke-width="3" stroke-linecap="round"/>
+    <path d="M -104 -4 C -76 -14 -46 -14 -16 -4" fill="none" stroke="#13294b" stroke-width="3" stroke-linecap="round"/>
+    <path d="M 16 -40 C 46 -50 76 -50 104 -40" fill="none" stroke="#13294b" stroke-width="3" stroke-linecap="round"/>
+    <path d="M 16 -22 C 46 -32 76 -32 104 -22" fill="none" stroke="#13294b" stroke-width="3" stroke-linecap="round"/>
+    <path d="M 16 -4 C 46 -14 76 -14 104 -4" fill="none" stroke="#13294b" stroke-width="3" stroke-linecap="round"/>
+    <g transform="translate(0,-118)">
+      <path d="M 0 -34 L 22 8 L 8 8 L 8 34 L -8 34 L -8 8 L -22 8 Z" fill="url(#inkGold)" stroke="#7a5a08" stroke-width="2"/>
+      <circle cx="0" cy="-4" r="5" fill="#0b1d3a"/>
+      <path d="M 0 1 L 0 26" stroke="#0b1d3a" stroke-width="2"/>
+    </g>
+    <path d="M -150 66 L 150 66" stroke="#f2c14e" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <text x="320" y="258" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="700" fill="#f7f3e8" letter-spacing="2">InkCraft Library</text>
+  <text x="320" y="292" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="17" fill="#f2c14e" letter-spacing="6">AN OPEN SOURCE ENCYCLOPEDIA</text>
+  <text x="320" y="322" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="13" fill="#c9d4e8" letter-spacing="3">HISTORY · SCIENCE · TECHNOLOGY · GEOGRAPHY · BIOGRAPHY</text>
+</svg>

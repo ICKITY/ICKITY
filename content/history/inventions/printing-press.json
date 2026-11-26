@@ -1,0 +1,134 @@
+{
+  "slug": "printing-press",
+  "title": "Printing Press",
+  "category": "History",
+  "subcategory": "Inventions",
+  "path": "/history/inventions/printing-press",
+  "summary": "The printing press, perfected by Johannes Gutenberg around 1450, turned books from rare treasures into mass-produced objects and triggered the information revolution that reshaped the modern world.",
+  "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg%20Bible%2C%20Lenox%20Copy%2C%20New%20York%20Public%20Library%2C%202009.%20Pic%2001.jpg",
+  "thumbnailCaption": "A page of the Gutenberg Bible, the first major book printed with movable type in Europe.",
+  "infobox": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg%20Bible%2C%20Lenox%20Copy%2C%20New%20York%20Public%20Library%2C%202009.%20Pic%2001.jpg",
+    "caption": "The Gutenberg Bible, Lenox Copy, New York Public Library. Public domain photograph via Wikimedia Commons.",
+    "rows": [
+      {
+        "label": "Inventor",
+        "value": "Johannes Gutenberg, Mainz, Germany"
+      },
+      {
+        "label": "Date",
+        "value": "Circa 1440–1450"
+      },
+      {
+        "label": "Key components",
+        "value": "Movable metal type, oil-based ink, screw press, paper"
+      },
+      {
+        "label": "First major book",
+        "value": "The Gutenberg Bible, circa 1455"
+      },
+      {
+        "label": "Earlier traditions",
+        "value": "Woodblock printing in China; movable type in Korea"
+      },
+      {
+        "label": "Impact",
+        "value": "Mass literacy, Reformation, Scientific Revolution"
+      },
+      {
+        "label": "Related topics",
+        "value": "<a class='wiki-link' href='/history/ancient-civilizations/library-of-alexandria'>Library of Alexandria</a>, <a class='wiki-link' href='/technology/computing/world-wide-web'>World Wide Web</a>"
+      }
+    ]
+  },
+  "intro": [
+    "The printing press is the machine that changed the world more than any other invention of the second millennium. Before it, every book was a handmade object: a scribe copied a text by hand, a binder sewed the pages together, and the finished volume cost as much as a house. After it, books could be produced by the hundreds, at a fraction of the cost, and knowledge that had been locked in monastic libraries began to flow into the hands of merchants, artisans, and eventually ordinary readers. The printing press did not merely make books cheaper; it changed who could know things, and therefore what the world knew.",
+    "The press is associated above all with Johannes Gutenberg, a German goldsmith of Mainz who, around 1450, perfected a system of movable metal type, oil-based ink, and a screw press adapted from wine-making equipment. His achievement was a synthesis: movable type had been tried before, and presses existed before, but Gutenberg combined them into a practical, economical system that could print the Latin Bible with a beauty rivaling the finest manuscripts. The resulting Gutenberg Bible, produced in an edition of about one hundred and eighty copies, is the first major book printed with movable type in Europe.",
+    "The consequences unfolded over the following centuries with the force of a slow explosion. Printing spread from Mainz to every major city in Europe within a generation. The Reformation was fought with pamphlets; the Scientific Revolution was built on printed journals and textbooks; the Enlightenment spread through printed encyclopedias. The printing press created the modern world of mass media, and its logic — the cheap, rapid, faithful reproduction of text — is the direct ancestor of the <a class='wiki-link' href='/technology/computing/world-wide-web'>World Wide Web</a>, which has carried the same revolution to its conclusion."
+  ],
+  "sections": [
+    {
+      "level": "h2",
+      "heading": "Before Gutenberg: Manuscript Culture",
+      "paragraphs": [
+        "For most of human history, writing was a scarce and expensive technology. In the ancient world, texts were written on papyrus or parchment by trained scribes, and a great library such as the <a class='wiki-link' href='/history/ancient-civilizations/library-of-alexandria'>Library of Alexandria</a> represented an enormous investment of wealth and labour. In medieval Europe, books were copied by hand in monasteries, where a single Bible might require three years of work by a team of scribes. The cost of a book placed it beyond the reach of all but the wealthiest institutions, and the number of copies of any text was small enough that a single fire or war could erase it from the world.",
+        "The economics of manuscript culture shaped the content of knowledge itself. Because copying was expensive, only texts judged essential were copied at all: scripture, liturgy, law, and a narrow canon of classical authors. Errors crept into every copy, and each copy diverged from its ancestors, so that scholars could never be certain what an ancient author had actually written. Knowledge was not only scarce; it was unstable. A text survived by being copied, but copying corrupted it, and the corruption accumulated with every generation.",
+        "By the fifteenth century, the demand for books had outgrown the supply that scribes could provide. Universities needed textbooks, lawyers needed law codes, and a growing merchant class wanted practical manuals. Paper, invented in China and spread to Europe through the Islamic world, had made the writing surface cheap. What was missing was a way to reproduce a page without writing it by hand. The answer would come from a combination of technologies that had each existed separately for centuries. The <a class='wiki-link' href='/geography/ancient-sites/indus-valley-civilization'>Indus Valley Civilization</a> had faced the same scarcity: its script, once lost, could never be recovered."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Earlier Printing Traditions in Asia",
+      "paragraphs": [
+        "Printing was not a European invention in origin. In China, woodblock printing — carving a text into a wooden block, inking it, and pressing paper onto it — was perfected by the Tang dynasty, and the Diamond Sutra of 868 CE is the oldest surviving printed book in the world. Woodblock printing served Chinese Buddhism and later Chinese literature for a thousand years, producing texts in quantity, though each block could print only one page and the blocks themselves were bulky to store.",
+        "Movable type, the key to flexible printing, was also invented in Asia. Bi Sheng, a Chinese inventor of the eleventh century, made type from baked clay, and Korean printers later cast type in metal. The Korean Jikji of 1377, printed with metal movable type, predates Gutenberg by nearly eighty years. These Asian traditions prove that the idea of printing with movable type was not unique to Europe; what was unique was the combination of movable type with a screw press, oil-based ink, and a cheap paper supply, assembled into a system that could compete economically with scribes.",
+        "The relationship between Asian and European printing remains debated. It is possible that knowledge of Chinese techniques reached Europe through trade and travel, but the evidence is inconclusive, and Gutenberg's system differs from Asian practice in its materials and mechanics. What matters for the history of the press is not priority but consequence: it was Gutenberg's system that, once established, spread across Europe and then the world, transforming every society it touched."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Gutenberg and the Mainz Workshop",
+      "paragraphs": [
+        "Johannes Gutenberg was born around 1400 in Mainz, the son of a wealthy merchant, and trained as a goldsmith — a trade that taught him metalworking, precision, and the economics of luxury goods. By the late 1430s he was experimenting with a new method of printing, and by 1448 he had borrowed money from a relative to fund the workshop. The enterprise nearly collapsed when his partner Johann Fust sued him for the loan in 1455, seizing the workshop and its equipment. Gutenberg lost his business, but the press survived in Fust's hands, and printing continued in Mainz.",
+        "Gutenberg's genius lay in solving a chain of technical problems. He invented a hand mould for casting metal type rapidly and uniformly, using an alloy of lead, tin, and antimony that held its shape under pressure. He developed an oil-based ink that adhered to metal type and paper, unlike the water-based inks used for manuscripts. He adapted the screw press of the wine and olive trades, which applied even pressure, to press paper onto inked type. And he chose paper over parchment for most copies, reducing costs dramatically.",
+        "The product of the workshop was the Gutenberg Bible, a two-volume Latin Bible printed around 1455 in an edition of roughly one hundred and eighty copies, of which about forty-nine survive. Its pages, set in two columns of forty-two lines, were designed to resemble the finest manuscripts, with spaces left for hand-painted decoration. The Bible was a masterpiece of engineering and design, and it proved that a printed book could equal a manuscript in quality while costing a fraction of the price. The age of print had begun."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Spread Across Europe",
+      "paragraphs": [
+        "Printing spread with remarkable speed. Within a decade of the Gutenberg Bible, presses were operating in Cologne, Strasbourg, Augsburg, and Basel. By 1500, presses had been established in more than two hundred and fifty European towns, and the total number of printed books had reached an estimated eight to ten million volumes — more books than the entire manuscript culture of the previous thousand years had produced. The great printing centres of Venice, Paris, and Nuremberg became the publishing capitals of the Renaissance.",
+        "The early printers were entrepreneurs as much as craftsmen. Aldus Manutius in Venice pioneered the small, cheap octavo format and the italic typeface, putting classics into the hands of students and travellers. The Estienne family in Paris and the Froben press in Basel produced scholarly editions of Greek and Latin texts that fuelled Renaissance humanism. Everywhere, printers discovered that the market for books was far larger than the market for manuscripts had suggested, and that cheap books created their own demand. The same presses that printed the classics would print the textbooks from which <a class='wiki-link' href='/biography/scientists/albert-einstein'>Albert Einstein</a> learned physics, and the printed journal made it possible to teach <a class='wiki-link' href='/science/physics/quantum-mechanics'>quantum mechanics</a> in a hundred universities.",
+        "The spread of printing also created new professions and new conflicts. Publishers, type-founders, proofreaders, and booksellers joined the scribes and binders of the old trade. Church and state authorities, alarmed by the flood of printed matter, developed systems of censorship and licensing. The very first printed book to be banned, and the first printers to be imprisoned for their work, appeared within years of the Gutenberg Bible. The press was powerful, and power attracts control."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "The Reformation and the Scientific Revolution",
+      "paragraphs": [
+        "No event demonstrated the power of print more dramatically than the Protestant Reformation. When Martin Luther posted his ninety-five theses in 1517, the printing press turned a local academic dispute into a European revolution. Luther's pamphlets, printed in cheap editions and translated into German, sold in the tens of thousands. His German Bible of 1522 and 1534 put scripture into the hands of lay readers for the first time, and the demand for it was insatiable. The Catholic Church responded with its own printed polemics, and the wars of religion were fought, in part, as wars of print.",
+        "The Scientific Revolution was equally a product of the press. Copernicus, Kepler, Galileo, and Newton published their work in printed books and journals that could be read, checked, and refuted by scholars across Europe. The printed textbook made it possible to teach the same mathematics in a hundred universities; the printed journal made it possible for a discovery in London to be debated in Paris within weeks. Science became cumulative and public because print made it so. The encyclopedias of the Enlightenment, culminating in Diderot's great work, were the press applied to the organisation of all knowledge.",
+        "Print also changed the texture of everyday life. Almanacs, calendars, ballads, and broadsheets brought news and practical information to people who had never owned a book. Literacy rates rose steadily across Europe, driven by the availability of cheap print and the Protestant emphasis on reading scripture. The modern world of mass media — newspapers, magazines, and eventually the electronic media of the <a class='wiki-link' href='/technology/computing/world-wide-web'>World Wide Web</a> — descends directly from the pamphlets of the Reformation."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "From Gutenberg to the Digital Age",
+      "paragraphs": [
+        "The technology of printing evolved continuously after Gutenberg. The wooden press gave way to iron presses, then to steam-powered and rotary presses that could print thousands of sheets per hour. Linotype machines automated typesetting, offset lithography replaced letterpress, and desktop publishing put typesetting on the desks of ordinary users. Each step reduced the cost and increased the speed of reproduction, following the trajectory Gutenberg had set. The history of printing is the history of information becoming cheaper, faster, and more widely available. The rotary press and the linotype machine were triumphs of the <a class='wiki-link' href='/technology/computing/history-of-computing'>history of computing</a> applied to information.",
+        "The digital revolution has now carried that trajectory to its conclusion. The <a class='wiki-link' href='/technology/computing/history-of-computing'>history of computing</a> records the transformation of the printing press into the computer screen, and the <a class='wiki-link' href='/technology/computing/world-wide-web'>World Wide Web</a> has made the reproduction and distribution of text effectively free and instantaneous. The <a class='wiki-link' href='/history/ancient-civilizations/library-of-alexandria'>library of Alexandria</a> dreamed of gathering all knowledge in one place; the printing press scattered it into millions of copies; the web has made it available to billions of readers at once. Each step was a continuation of the same idea. The <a class='wiki-link' href='/science/astronomy/solar-system'>solar system</a> itself was mapped by printed charts, and the <a class='wiki-link' href='/science/astronomy/black-holes'>black holes</a> of the cosmos are now photographed by telescopes whose images are printed and published for the world.",
+        "Gutenberg's press remains the defining invention of the millennium because it changed the economics of knowledge itself. Before the press, knowledge was scarce, expensive, and fragile. After the press, it became abundant, cheap, and durable. Every encyclopedia, every newspaper, and every website — including this one — exists because a goldsmith in Mainz solved the problem of how to print a page. The press did not merely spread information; it created the conditions for the modern world."
+      ]
+    }
+  ],
+  "pullQuote": {
+    "text": "The printing press did not merely make books cheaper. It changed who could know things, and therefore what the world knew.",
+    "source": "InkCraft Library editorial introduction"
+  },
+  "media": [
+    {
+      "type": "image",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg%20Bible%2C%20Lenox%20Copy%2C%20New%20York%20Public%20Library%2C%202009.%20Pic%2002.jpg",
+      "caption": "A second page from the Gutenberg Bible, showing the two-column layout of forty-two lines. Public domain photograph via Wikimedia Commons."
+    },
+    {
+      "type": "video",
+      "src": "https://www.youtube-nocookie.com/embed/ZURajM1KKko",
+      "caption": "Documentary: The Invention of the Printing Press — Johannes Gutenberg's Revolution. Embedded from YouTube."
+    }
+  ],
+  "seeAlso": [
+    "/history/ancient-civilizations/library-of-alexandria",
+    "/technology/computing/world-wide-web",
+    "/technology/computing/history-of-computing",
+    "/biography/scientists/albert-einstein"
+  ],
+  "references": [
+    "Eisenstein, Elizabeth L. The Printing Press as an Agent of Change. Cambridge University Press, 1979.",
+    "Febvre, Lucien, and Henri-Jean Martin. The Coming of the Book: The Impact of Printing 1450–1800. Verso, 1976.",
+    "Man, John. The Gutenberg Revolution: How a Genius Invented the Machine That Brought Books into the World. HarperCollins, 2002.",
+    "Kapr, Albert. Johannes Gutenberg: Man and His Invention. Gower, 1996.",
+    "British Library, Gutenberg Bible exhibition materials, bl.uk."
+  ]
+}

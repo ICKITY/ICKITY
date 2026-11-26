@@ -1,0 +1,134 @@
+{
+  "slug": "library-of-alexandria",
+  "title": "Library of Alexandria",
+  "category": "History",
+  "subcategory": "Ancient Civilizations",
+  "path": "/history/ancient-civilizations/library-of-alexandria",
+  "summary": "The Library of Alexandria was the greatest research institution of the ancient world, housing hundreds of thousands of scrolls and anchoring the intellectual life of the Mediterranean for centuries.",
+  "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Library%20of%20Alexandria%2C%20Egypt.jpg",
+  "thumbnailCaption": "The modern Bibliotheca Alexandrina stands near the site of the ancient Great Library.",
+  "infobox": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Library%20of%20Alexandria%2C%20Egypt.jpg",
+    "caption": "The Bibliotheca Alexandrina, Alexandria, Egypt. Public domain photograph via Wikimedia Commons.",
+    "rows": [
+      {
+        "label": "Founded",
+        "value": "Early 3rd century BCE, under Ptolemy I Soter"
+      },
+      {
+        "label": "Location",
+        "value": "Alexandria, Egypt, beside the royal palace quarter"
+      },
+      {
+        "label": "Collection size",
+        "value": "Estimated 400,000 to 700,000 scrolls at its peak"
+      },
+      {
+        "label": "Key figures",
+        "value": "Demetrius of Phalerum, Zenodotus, Callimachus, Eratosthenes"
+      },
+      {
+        "label": "Decline",
+        "value": "Gradual loss from the 1st century BCE onward"
+      },
+      {
+        "label": "Successor",
+        "value": "Bibliotheca Alexandrina, opened 2002"
+      },
+      {
+        "label": "Related topics",
+        "value": "<a class='wiki-link' href='/geography/ancient-sites/indus-valley-civilization'>Indus Valley Civilization</a>, <a class='wiki-link' href='/history/inventions/printing-press'>Printing Press</a>"
+      }
+    ]
+  },
+  "intro": [
+    "The Library of Alexandria, known in antiquity as the Mouseion or Great Library, was the largest and most influential research institution of the ancient world. Founded in the early third century BCE in the royal quarter of Alexandria, Egypt, it combined a vast collection of scrolls with salaried scholars, lecture halls, gardens, and astronomical instruments. For several centuries it was the undisputed centre of Mediterranean learning, the place where the texts of Homer and Hesiod were edited, where Euclid systematised geometry, and where Eratosthenes measured the circumference of the Earth with astonishing accuracy.",
+    "The library was the intellectual engine of the Ptolemaic Kingdom, the Hellenistic state carved out of Alexander the Great's empire by his general Ptolemy I. Alexandria itself was a planned city of extraordinary ambition, with a harbour, a lighthouse that ranked among the wonders of the world, and a university quarter designed to attract the finest minds of the Greek-speaking world. The library's collection grew through royal decree: ships entering the harbour were required to surrender their books for copying, and the originals were kept while copies were returned to their owners. By the height of its power, ancient writers claimed, the library held between four hundred thousand and seven hundred thousand scrolls.",
+    "The story of the Library of Alexandria is also a story of loss. Unlike a single dramatic fire, the library declined over centuries through political upheaval, the Roman conquest of Egypt, civil war, and the slow withdrawal of royal patronage. Its destruction became a symbol for the fragility of civilisation's memory, and its modern successor, the Bibliotheca Alexandrina, was built beside the ancient site as an act of cultural restoration. To understand the library is to understand how knowledge was gathered, organised, and preserved in the ancient world — and how easily it can be scattered."
+  ],
+  "sections": [
+    {
+      "level": "h2",
+      "heading": "Founding of Alexandria and the Mouseion",
+      "paragraphs": [
+        "Alexandria was founded in 331 BCE by Alexander the Great on the Egyptian coast, where a sheltered harbour and the island of Pharos offered ideal conditions for trade between the Mediterranean and the Nile Delta. After Alexander's death, his empire was divided among his generals, and Egypt fell to Ptolemy I Soter, who made Alexandria his capital. Ptolemy understood that a great city needed more than walls and warehouses: it needed prestige. He therefore planned a royal quarter, the Brucheion, containing palaces, temples, gardens, and a research institute called the Mouseion, dedicated to the Muses, the goddesses of learning and the arts.",
+        "The Mouseion was conceived as a university in the modern sense. It housed a community of scholars who received stipends, meals, and lodging in return for their work. The library was its collection, and the two institutions were inseparable: scholars consulted the scrolls, and the scrolls grew because scholars produced new knowledge. Demetrius of Phalerum, an Athenian statesman who fled to Alexandria, is traditionally credited with advising Ptolemy on the library's design, drawing on the model of Aristotle's Lyceum in Athens, whose own library had been a pioneering collection of research materials.",
+        "From the beginning, the library pursued a policy of aggressive acquisition. Royal agents travelled the Mediterranean buying books wherever they were sold, and a famous decree required every ship docking at Alexandria to hand over its books for copying by royal scribes. The originals were retained in the library and the copies returned to the ship's owner. This single policy explains how the collection could grow so quickly, and it also explains the library's character: it aimed to hold the complete literary heritage of the Greek world, not merely a selection of it."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "The Collection and Its Organisation",
+      "paragraphs": [
+        "The scrolls of Alexandria were organised with a sophistication that anticipates modern librarianship. The chief librarian, known as the prostates, supervised a staff of scribes and scholars. Callimachus, the third chief librarian, produced the Pinakes, a catalogue of the collection arranged by author and subject and running to one hundred and twenty books. The Pinakes is often described as the first library catalogue in history, and its very existence tells us that the library's holdings had outgrown memory and required systematic description.",
+        "The collection was not confined to Greek literature. It included Persian, Jewish, Egyptian, and Indian works in translation, reflecting Alexandria's position at the crossroads of cultures. The Septuagint, the Greek translation of the Hebrew Bible, was produced in Alexandria in the third century BCE, and the legend of its creation — seventy-two translators working in isolation — testifies to the city's role as a meeting point of Jewish and Greek scholarship. Egyptian priestly knowledge was also translated and preserved, giving the library a genuinely cosmopolitan character that few ancient institutions could match.",
+        "Physical storage was simple but effective. Scrolls were kept in niches along the walls of the reading rooms and in wooden cases, each scroll labelled with a small tag, the titulus, hanging from its end. Papyrus was the standard writing material, and the library's demand for it was so great that it shaped the economics of the entire Mediterranean papyrus trade. The library was, in effect, a knowledge factory: it acquired texts, copied them, catalogued them, edited them, and generated commentary upon them."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Scholars of the Library",
+      "paragraphs": [
+        "The roster of scholars associated with Alexandria reads like a roll call of ancient science. Euclid taught and wrote his Elements there, the geometry textbook that would dominate mathematical education for two thousand years. Eratosthenes, the third chief librarian, measured the Earth's circumference by comparing the angle of the sun at noon in Alexandria and in Syene, arriving at a figure within a few percent of the true value. Aristarchus of Samos, who worked in Alexandria, proposed the first heliocentric model of the <a class='wiki-link' href='/science/astronomy/solar-system'>solar system</a>, placing the sun at the centre rather than the Earth. The same spirit of measurement would, two thousand years later, produce <a class='wiki-link' href='/biography/scientists/albert-einstein'>Albert Einstein</a> and his <a class='wiki-link' href='/science/physics/general-relativity'>general relativity</a>.",
+        "In medicine, Herophilus and Erasistratus founded the Alexandrian school of anatomy, performing systematic dissections and advancing the understanding of the brain, nerves, and circulation. In astronomy, Hipparchus compiled star catalogues and discovered the precession of the equinoxes. In literature, Callimachus and Apollonius of Rhodes produced poetry of extraordinary refinement, while the grammarians Zenodotus and Aristophanes of Byzantium created the critical editions of Homer that remain the foundation of classical scholarship. The library was not a warehouse; it was a laboratory. Hipparchus's star catalogues described the same heavens that modern astronomy maps across the <a class='wiki-link' href='/science/astronomy/solar-system'>solar system</a> and beyond, and its scholars' questions about matter and motion would be answered, two millennia later, by <a class='wiki-link' href='/science/physics/quantum-mechanics'>quantum mechanics</a>.",
+        "The work of these scholars depended on the library's unique combination of texts and people. A mathematician could consult every earlier treatise on geometry; an astronomer could compare centuries of observations; a poet could study the complete works of his predecessors. This density of resources created a feedback loop of innovation that no rival city could reproduce. When the library's patronage faded, the loop broke, and the scholars dispersed to Athens, Rome, and beyond, carrying Alexandrian learning with them."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "The Great Fire and Other Legends",
+      "paragraphs": [
+        "The most famous episode in the library's history is the fire of 48 BCE, when Julius Caesar, besieged in Alexandria during the Roman civil war, set fire to the Egyptian fleet in the harbour. The flames spread to warehouses on the waterfront, and ancient writers report that the fire consumed vast quantities of books. Plutarch claims that the fire destroyed seven hundred thousand scrolls, and later writers inflated the figure further. Modern scholars debate how much of the library's collection was actually lost in this event, noting that the main library stood in the royal quarter, some distance from the harbour, and that the fire may have destroyed stored grain and books awaiting shipment rather than the central collection itself.",
+        "Other episodes of destruction followed. In 272 CE, during the reconquest of Alexandria by the emperor Aurelian, the Brucheion quarter was devastated. In 391 CE, the Christian emperor Theodosius I ordered the destruction of pagan temples, and the Serapeum, a daughter library of the Great Library, was torn down by a Christian mob. Each event damaged the institution, but none single-handedly ended it. The library's decline was cumulative: a slow starvation of funding, a dispersal of scholars, and the gradual transfer of its remaining books to other collections.",
+        "The popular image of a single night in which all ancient knowledge burned is a myth, but it is a revealing one. It expresses a genuine truth about the library: that a civilisation which concentrates its memory in one place makes that memory vulnerable. The same vulnerability appears in other great collections, from the libraries of <a class='wiki-link' href='/geography/ancient-sites/indus-valley-civilization'>the Indus Valley Civilization</a>, whose undeciphered seals hint at lost records, to the manuscript libraries of the medieval world. Alexandria's fate became the archetype of cultural catastrophe, invoked whenever a great archive is threatened."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Decline and Dispersal",
+      "paragraphs": [
+        "The library's decline began with the decline of the Ptolemaic Kingdom itself. As Rome absorbed Egypt, first as a client state and then as a province in 30 BCE, the library lost its royal patron and became an imperial responsibility of diminishing priority. Roman emperors valued Alexandria as a source of grain, not as a centre of learning, and the Mouseion's stipends dwindled. Scholars who might once have flocked to Alexandria increasingly chose Rome, where the great libraries founded by Augustus and his successors offered new patronage.",
+        "Religious change accelerated the process. As Christianity became the state religion of the Roman Empire, pagan institutions lost their funding and their legitimacy. The destruction of the Serapeum in 391 CE was the most dramatic moment, but the deeper cause was the withdrawal of the intellectual world from the library's pagan, Greek character. Meanwhile, the centre of learning shifted eastward and southward: to Constantinople, to the schools of Syria, and eventually to the great libraries of the Islamic Golden Age, which preserved and extended the Greek heritage that Alexandria had assembled.",
+        "By the seventh century, the Great Library as an institution had ceased to exist. Its scrolls had been dispersed, copied, quoted, and lost in proportions no one can now measure. Yet its influence survived in every text that quoted its editions, every scientific result that built on its measurements, and every library that adopted its methods of cataloguing and copying. The library died, but the idea of the library — a universal collection, freely available to scholars — became immortal."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Legacy and the Modern Bibliotheca Alexandrina",
+      "paragraphs": [
+        "The legacy of the Library of Alexandria is visible wherever knowledge is organised. The Pinakes anticipates the modern catalogue; the royal copying decree anticipates legal deposit; the Mouseion anticipates the research university. The library demonstrated that knowledge could be accumulated deliberately, on a scale that no individual could achieve, and that such accumulation would generate discoveries no individual could have made alone. It is the ancestor of every national library, every university collection, and every digital archive, including the open encyclopedias of the modern web. The Pinakes anticipates the databases of the <a class='wiki-link' href='/technology/computing/history-of-computing'>history of computing</a>, and the Mouseion anticipates the research university.",
+        "In 2002, the Bibliotheca Alexandrina opened on a site near the ancient library, built by the Egyptian government with international support including a gift of books from France. The new library is a vast, modern institution with reading rooms, museums, and digital archives, deliberately echoing the ambition of its predecessor. Its architects and founders understood that the ancient library's true monument is not a building but an idea: that a civilisation should gather its memory in one place and make it available to all who seek to learn. The modern Bibliotheca Alexandrina preserves knowledge of everything from the <a class='wiki-link' href='/science/astronomy/black-holes'>black holes</a> of the cosmos to the manuscripts of the ancient world.",
+        "The contrast between Alexandria and the <a class='wiki-link' href='/history/inventions/printing-press'>printing press</a> completes the story. The ancient library concentrated knowledge in a single, vulnerable place; the <a class='wiki-link' href='/history/inventions/printing-press'>printing press</a> dispersed it into thousands of copies that no fire could destroy. Modern digital libraries have carried that dispersal to its logical conclusion, placing the heritage of Alexandria within reach of any reader with a connection. The Great Library's dream — the whole of human knowledge, organised and open — is finally within sight, and it is being built, fittingly, by open source projects like this one. The <a class='wiki-link' href='/technology/computing/world-wide-web'>World Wide Web</a> has made the Great Library's dream a daily reality for billions of readers."
+      ]
+    }
+  ],
+  "pullQuote": {
+    "text": "The Library of Alexandria was not merely a collection of books. It was the first institution in history to treat knowledge itself as a public good, to be gathered, organised, and shared.",
+    "source": "InkCraft Library editorial introduction"
+  },
+  "media": [
+    {
+      "type": "image",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bibliotheca%20Alexandrina%2C%20Alexandria%2C%20Egypt.jpg",
+      "caption": "The Bibliotheca Alexandrina in Alexandria, Egypt, photographed by a visitor. Public domain image via Wikimedia Commons."
+    },
+    {
+      "type": "video",
+      "src": "https://www.youtube-nocookie.com/embed/AAbpkLoNIoA",
+      "caption": "Documentary: The Great Library of Alexandria. Embedded from YouTube."
+    }
+  ],
+  "seeAlso": [
+    "/history/inventions/printing-press",
+    "/geography/ancient-sites/indus-valley-civilization",
+    "/technology/computing/world-wide-web",
+    "/technology/computing/history-of-computing"
+  ],
+  "references": [
+    "Canfora, Luciano. The Vanished Library: A Wonder of the Ancient World. University of California Press, 1990.",
+    "El-Abbadi, Mostafa. The Life and Fate of the Ancient Library of Alexandria. UNESCO, 1990.",
+    "Murray, Stuart A. P. The Library: An Illustrated History. Skyhorse Publishing, 2009.",
+    "Phillips, Heather A. The Great Library of Alexandria. Library History, 2000.",
+    "Bibliotheca Alexandrina official history, bibalex.org."
+  ]
+}
