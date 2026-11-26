@@ -4,6 +4,19 @@
   "version": "1.0.0",
   "type": "module",
   "description": "ICKITY — an open source encyclopedia and publishing web application.",
+  "author": {
+    "name": "ICKITY",
+    "email": "nobojitshibam@gmail.com",
+    "url": "https://github.com/ICKITY"
+  },
+  "contributors": [
+    {
+      "name": "ICKITY",
+      "email": "nobojitshibam@gmail.com",
+      "url": "https://github.com/ICKITY"
+    }
+  ],
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
