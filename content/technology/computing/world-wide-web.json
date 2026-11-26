@@ -1,0 +1,129 @@
+{
+  "slug": "world-wide-web",
+  "title": "World Wide Web",
+  "category": "Technology",
+  "subcategory": "Computing",
+  "path": "/technology/computing/world-wide-web",
+  "summary": "The World Wide Web is the global system of linked hypertext documents invented by Tim Berners-Lee at CERN in 1989. It is the platform on which this encyclopedia, and much of modern civilisation, is built.",
+  "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Berners-Lee.jpg",
+  "thumbnailCaption": "Tim Berners-Lee, inventor of the World Wide Web, photographed in 2014.",
+  "infobox": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Berners-Lee.jpg",
+    "caption": "Tim Berners-Lee, inventor of the World Wide Web. Public domain photograph via Wikimedia Commons.",
+    "rows": [
+      {
+        "label": "Invented",
+        "value": "1989, by Tim Berners-Lee at CERN"
+      },
+      {
+        "label": "First website",
+        "value": "info.cern.ch, August 1991"
+      },
+      {
+        "label": "Core technologies",
+        "value": "URL, HTTP, HTML"
+      },
+      {
+        "label": "Released to public domain",
+        "value": "30 April 1993, by CERN"
+      },
+      {
+        "label": "Users",
+        "value": "More than 5 billion people online"
+      },
+      {
+        "label": "Related topics",
+        "value": "<a class='wiki-link' href='/technology/computing/history-of-computing'>History of Computing</a>, <a class='wiki-link' href='/history/inventions/printing-press'>Printing Press</a>"
+      }
+    ]
+  },
+  "intro": [
+    "The World Wide Web is the global system of interlinked hypertext documents that runs on the internet, and it is the medium on which this encyclopedia is published. It was invented in 1989 by the British computer scientist Tim Berners-Lee, working at CERN, the European particle physics laboratory near Geneva. Berners-Lee's insight was simple and revolutionary: that documents on different computers could be linked together by a system of addresses and hyperlinks, so that a reader could move from one document to another with a click, traversing a web of information that spanned the world.",
+    "The web must not be confused with the internet itself. The internet is the physical and logical network of networks that carries data; the web is one of the services that runs on it, alongside email, file transfer, and other protocols. The distinction matters because the web's success was not inevitable: it succeeded because it was open, simple, and free. When CERN released the web into the public domain in 1993, it ensured that no one would own the web, and the web grew faster than any technology in history.",
+    "The web's impact has been civilisational. It has transformed commerce, education, science, and politics; it has made the world's knowledge available to anyone with a connection; and it has carried the logic of the <a class='wiki-link' href='/history/inventions/printing-press'>printing press</a> to its conclusion, making the reproduction and distribution of text effectively free. The web is the <a class='wiki-link' href='/history/ancient-civilizations/library-of-alexandria'>library of Alexandria</a> rebuilt as a network, and this encyclopedia is one of its millions of pages."
+  ],
+  "sections": [
+    {
+      "level": "h2",
+      "heading": "The Problem at CERN",
+      "paragraphs": [
+        "The web was born from an administrative problem. CERN, the world's largest particle physics laboratory, employed thousands of scientists from hundreds of institutions, and its information was scattered across incompatible computer systems. Researchers returning from conferences could not find each other's papers; documents were lost when their authors left; and every attempt to organise the information created a new system that no one else used. Tim Berners-Lee, a software engineer at CERN, saw that the problem was not a lack of information but a lack of links between it.",
+        "In March 1989, Berners-Lee submitted a proposal titled Information Management: A Proposal, which described a system of hypertext documents linked by addresses, accessible through a browser, and organised without central control. His supervisor, Mike Sendall, famously wrote that the proposal was vague but exciting, and allowed Berners-Lee to work on it. Within months, Berners-Lee had written the first web browser, the first web server, and the first website, all on a NeXT computer at CERN. The first page, hosted at info.cern.ch, explained what the web was and how to use it.",
+        "The web's design reflected Berners-Lee's philosophy. Hypertext links were universal: any document could link to any other, without permission. Addresses were simple strings, the URLs, that anyone could type. And the system was built on existing, open standards — the internet's protocols and the Hypertext Transfer Protocol — so that it could run on any computer. The web was designed to be decentralised from the start, a network with no centre, and that design decision is the reason it succeeded where earlier hypertext systems had failed."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "URL, HTTP, and HTML: The Three Inventions",
+      "paragraphs": [
+        "The web rests on three inventions, all created by Berners-Lee in 1989. The first is the URL, the Uniform Resource Locator, a global address for every document on the web. A URL is a simple string — a protocol, a host, and a path — that uniquely identifies a resource and tells the browser where to find it. The URL made every document on the web addressable, and therefore linkable, from anywhere else. The second invention is HTTP, the Hypertext Transfer Protocol, the set of rules by which browsers request documents from servers and servers respond. HTTP is stateless, simple, and robust, and it carries the web's traffic to this day.",
+        "The third invention is HTML, the Hypertext Markup Language, the format in which web documents are written. HTML uses tags to structure text into headings, paragraphs, lists, and links, and it is deliberately forgiving: a browser will display a document even if its markup is imperfect. This forgiveness was a design choice with enormous consequences. It meant that anyone could write a web page with a text editor, and the barrier to publishing on the web was as low as the barrier to writing a letter. The web grew because publishing on it was easy.",
+        "Together, the three inventions form a system of extraordinary elegance. The URL names the document, HTTP moves it, and HTML describes it. Each is simple enough to be understood in an afternoon, and together they support a system of billions of documents. The web is a triumph of minimal design: the smallest possible set of standards that could support a global library, and the proof that simplicity, at scale, is a superpower."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "The Web Goes Public",
+      "paragraphs": [
+        "The web's public debut came in August 1991, when Berners-Lee posted a summary of the project to the alt.hypertext newsgroup and made the software available for download. The response was immediate: universities, laboratories, and enthusiasts began building websites, and the web's growth became exponential. The first web browser, WorldWideWeb, was soon joined by others, and the first web servers appeared on every continent. Within two years, the web had grown from a CERN experiment into a global phenomenon.",
+        "The decisive moment came on 30 April 1993, when CERN announced that it was releasing the web into the public domain. The announcement, signed by the laboratory's directors, placed the web's core technologies beyond ownership: no patent, no licence, no royalty would ever be charged for their use. The decision was strategic as well as generous. CERN recognised that a web owned by a single organisation would never achieve universal adoption, and that the web's value lay precisely in its openness. The public domain release is the reason the web belongs to everyone.",
+        "The web's growth was accelerated by the Mosaic browser, released in 1993, which introduced images inline with text and made the web visual for the first time. Mosaic's popularity triggered an explosion of commercial and personal websites, and the web entered the mainstream of public life. The <a class='wiki-link' href='/technology/computing/history-of-computing'>history of computing</a> records few moments of such rapid transformation: within a decade, the web had become the dominant medium of human communication. The web's inventor, like <a class='wiki-link' href='/biography/scientists/albert-einstein'>Albert Einstein</a> before him, solved a problem by imagining a system that did not yet exist. The web's protocols, like the equations of <a class='wiki-link' href='/science/physics/general-relativity'>general relativity</a>, are universal: they work the same for everyone, everywhere."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Browsers, Search, and the Commercial Web",
+      "paragraphs": [
+        "The browser wars of the 1990s shaped the web's evolution. Netscape Navigator, built on Mosaic's success, became the first mass-market browser, and Microsoft's Internet Explorer, bundled free with Windows, captured the market through distribution rather than merit. The competition drove rapid innovation in web technology, but it also fragmented the web into incompatible dialects of HTML. The conflict ended with the rise of open standards, promoted by the World Wide Web Consortium, which Berners-Lee founded in 1994 to steward the web's development.",
+        "Search engines transformed the web from a collection of documents into a navigable library. The first search engines indexed the web by crawling its links, and the best of them, Google, founded in 1998, ranked results by the quality of the pages linking to them. Search made the web usable at scale: with billions of pages, the ability to find the right one became as important as the ability to publish. The web's growth created the problem of discovery, and search engines were the answer.",
+        "Commerce followed. The web became the largest marketplace in history, supporting electronic commerce, online banking, digital media, and the advertising economy that funds much of the free web. Social networks, video platforms, and cloud services built on the web's open standards created new industries and new forms of social life. The web's openness enabled all of it: because the web belonged to no one, everyone could build on it, and the result is an ecosystem of extraordinary diversity and dynamism."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "The Web as a Library and a Commons",
+      "paragraphs": [
+        "The web is the largest library ever built. It contains the collected knowledge of humanity in every language, freely accessible to anyone with a connection. Encyclopedias, archives, journals, and books that would once have required a research library are now a click away. The web has democratised knowledge on a scale that the <a class='wiki-link' href='/history/ancient-civilizations/library-of-alexandria'>Library of Alexandria</a> could only dream of: the whole of human knowledge, organised by links, available to all. This encyclopedia is part of that library, and it exists because the web makes it possible. The <a class='wiki-link' href='/history/ancient-civilizations/library-of-alexandria'>Library of Alexandria</a> gathered the knowledge of one world; the web gathers the knowledge of all worlds. From the seals of the <a class='wiki-link' href='/geography/ancient-sites/indus-valley-civilization'>Indus Valley Civilization</a> to the journals of modern science, the web preserves the record of civilisation.",
+        "The web is also a commons, governed by open standards and maintained by volunteers. The protocols that carry it are public; the markup language that describes its pages is open; and the community of developers who build it share their knowledge freely. The web's success is the success of open source principles applied to communication: that a system owned by everyone is more robust, more innovative, and more valuable than a system owned by anyone. The web's history is the strongest evidence ever produced for the power of openness.",
+        "The web faces challenges that reflect its success. Misinformation spreads as easily as truth; privacy is threatened by surveillance and tracking; and access remains unequal, with billions still offline. The web's inventor has responded with projects to protect its founding principles, including the Solid project for user-controlled data. The web's future will be determined by whether its openness can be preserved while its harms are addressed. The web is humanity's greatest communication system, and its stewardship is a civilisational responsibility."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "From Hypertext to the Modern Web",
+      "paragraphs": [
+        "The modern web is far more powerful than the document system Berners-Lee built in 1989. JavaScript, introduced in 1995, turned web pages into applications. The smartphone put the web into the pockets of billions. Cloud computing moved the web's infrastructure into vast data centres, and the web became the platform for everything from banking to government services. The web's original technologies — URLs, HTTP, and HTML — remain at its foundation, but they now support a system of extraordinary complexity. The web now coordinates the exploration of the <a class='wiki-link' href='/science/astronomy/solar-system'>solar system</a>, from the rovers on Mars to the telescopes in orbit. The web carries images of <a class='wiki-link' href='/science/astronomy/black-holes'>black holes</a> from the Event Horizon Telescope to billions of screens, and its fibre networks depend on lasers, devices born of <a class='wiki-link' href='/science/physics/quantum-mechanics'>quantum mechanics</a>.",
+        "The web's evolution has been guided by the same principle that created it: openness. Every major advance, from the browser to the smartphone to the cloud, was built on the web's public standards, and every advance was available to anyone who wished to use it. The web's growth from a CERN proposal to the infrastructure of civilisation took less than a decade, and it continues. The web is the defining technology of the age, and its history — from a physicist's solution to an information problem to the library of the world — is the history of our time."
+      ]
+    }
+  ],
+  "pullQuote": {
+    "text": "The web is more a social creation than a technical one. I designed it for a social effect — to help people work together — and not as a technical trick.",
+    "source": "Tim Berners-Lee, inventor of the World Wide Web"
+  },
+  "media": [
+    {
+      "type": "image",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/First%20Web%20Page.jpg",
+      "caption": "A reconstruction of the first web page, created by Tim Berners-Lee in 1991. Public domain image via Wikimedia Commons."
+    },
+    {
+      "type": "video",
+      "src": "https://www.youtube-nocookie.com/embed/C0d5ovcFSYQ",
+      "caption": "Documentary: Tim Berners-Lee — The Man Who Created the Web. Embedded from YouTube."
+    }
+  ],
+  "seeAlso": [
+    "/technology/computing/history-of-computing",
+    "/history/inventions/printing-press",
+    "/history/ancient-civilizations/library-of-alexandria",
+    "/biography/scientists/albert-einstein"
+  ],
+  "references": [
+    "Berners-Lee, Tim. Information Management: A Proposal. CERN, 1989.",
+    "Berners-Lee, Tim, and Mark Fischetti. Weaving the Web. HarperCollins, 1999.",
+    "CERN. CERN Releases the World Wide Web into the Public Domain, 1993.",
+    "World Wide Web Consortium, w3.org.",
+    "Internet World Stats, internetworldstats.com."
+  ]
+}

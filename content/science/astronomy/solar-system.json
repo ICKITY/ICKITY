@@ -1,0 +1,134 @@
+{
+  "slug": "solar-system",
+  "title": "Solar System",
+  "category": "Science",
+  "subcategory": "Astronomy",
+  "path": "/science/astronomy/solar-system",
+  "summary": "The solar system is the Sun and everything bound to it by gravity — eight planets, dwarf planets, moons, asteroids, and comets — formed 4.6 billion years ago from a collapsing cloud of gas and dust.",
+  "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Earth%20from%20Apollo%2017.jpg",
+  "thumbnailCaption": "Earth seen from Apollo 17 in 1972, the full-disc view that defined the modern era of planetary exploration.",
+  "infobox": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Earth%20from%20Apollo%2017.jpg",
+    "caption": "The Blue Marble, Earth photographed by Apollo 17, 1972. Public domain image via NASA and Wikimedia Commons.",
+    "rows": [
+      {
+        "label": "Age",
+        "value": "About 4.6 billion years"
+      },
+      {
+        "label": "Central star",
+        "value": "The Sun, a G-type main-sequence star"
+      },
+      {
+        "label": "Planets",
+        "value": "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune"
+      },
+      {
+        "label": "Dwarf planets",
+        "value": "Pluto, Ceres, Eris, Makemake, Haumea"
+      },
+      {
+        "label": "Known moons",
+        "value": "More than 290 confirmed"
+      },
+      {
+        "label": "Extent",
+        "value": "Heliopause at roughly 120 astronomical units"
+      },
+      {
+        "label": "Related topics",
+        "value": "<a class='wiki-link' href='/science/physics/general-relativity'>General Relativity</a>, <a class='wiki-link' href='/science/astronomy/black-holes'>Black Holes</a>"
+      }
+    ]
+  },
+  "intro": [
+    "The solar system is the Sun and everything bound to it by gravity: eight planets, five recognised dwarf planets, more than two hundred and ninety moons, and millions of asteroids and comets. It formed about 4.6 billion years ago from the gravitational collapse of a vast cloud of gas and dust, and it has been evolving ever since. The Sun, which contains 99.86 percent of the system's mass, dominates every orbit within it, and the planets follow paths that are described with exquisite precision by the laws of gravitation first formulated by Newton and refined by <a class='wiki-link' href='/science/physics/general-relativity'>general relativity</a>.",
+    "The system is organised into two broad regions. The inner solar system holds the four small, rocky terrestrial planets — Mercury, Venus, Earth, and Mars — whose solid surfaces and thin atmospheres contrast with the outer giants. The outer solar system holds Jupiter and Saturn, the gas giants, and Uranus and Neptune, the ice giants, whose vast atmospheres and deep interiors are governed by pressures and temperatures unknown on Earth. Beyond Neptune lie the Kuiper Belt, the scattered disc, and the distant Oort Cloud, the system's outermost frontier.",
+    "Humanity's knowledge of the solar system has grown from naked-eye wonder to robotic exploration. Telescopes revealed the moons of Jupiter and the rings of Saturn; spacecraft have visited every planet, landed on Titan and Mars, and flown past Pluto and beyond. The solar system is now understood as a dynamic, evolving environment — and as the only known place in the universe where life exists. Its study is the foundation of astronomy, planetary science, and the search for life beyond Earth."
+  ],
+  "sections": [
+    {
+      "level": "h2",
+      "heading": "Formation from a Collapsing Cloud",
+      "paragraphs": [
+        "The solar system began as a molecular cloud, a cold, dense region of interstellar gas and dust, perhaps triggered to collapse by the shock wave of a nearby supernova. As gravity drew the cloud inward, it heated, spun faster, and flattened into a rotating disc. At the centre, the material compressed into the protosun; in the disc around it, dust grains collided and stuck together, growing into pebbles, boulders, and eventually planetesimals — the building blocks of the planets. The process took tens of millions of years, and its remnants are still visible in the asteroid belt, where the planetesimals never completed their growth. The same processes of accretion and collision that built the planets also built the first cities, from the <a class='wiki-link' href='/geography/ancient-sites/indus-valley-civilization'>Indus Valley Civilization</a> to the modern world.",
+        "The composition of the planets reflects their distance from the young sun. Close to the sun, it was too hot for volatile materials to condense, so only rock and metal could accumulate, forming the small terrestrial planets. Farther out, beyond the frost line where water could freeze, ices were abundant, and the growing cores could capture vast amounts of hydrogen and helium, becoming the giant planets. The giant planets' rapid growth cleared their orbits and halted the inward drift of material, shaping the architecture of the system that persists today.",
+        "The formation of the system was violent. The giant planets migrated through the disc of debris, scattering asteroids and comets and possibly reshaping the orbits of the terrestrial planets. The Late Heavy Bombardment, about four billion years ago, scarred the surfaces of the moon and the inner planets with craters. The Earth itself was struck by a Mars-sized body, an impact that threw debris into orbit and created the moon. The solar system we see is the survivor of a chaotic youth, and its history is written in the craters, orbits, and compositions of its members."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "The Sun: The System's Engine",
+      "paragraphs": [
+        "The Sun is a G-type main-sequence star, a sphere of plasma 1.39 million kilometres in diameter containing 99.86 percent of the solar system's mass. At its core, hydrogen fuses into helium at a temperature of fifteen million degrees, releasing the energy that powers the entire system. The energy takes about a hundred thousand years to travel from the core to the surface, where it radiates into space as sunlight. The sun's output has increased steadily over its history, and it will continue to do so for billions of years, eventually swelling into a red giant that will engulf the inner planets.",
+        "The sun is not a quiet star. Its surface is marked by sunspots, regions of intense magnetic activity where the plasma is cooler than its surroundings. Sunspots, solar flares, and coronal mass ejections release torrents of charged particles into space, creating the solar wind that sweeps through the entire system. The wind shapes the magnetospheres of the planets, drives the auroras, and defines the heliopause, the boundary where the solar wind meets the interstellar medium. The sun's activity governs the space weather that affects satellites, communications, and power grids on Earth.",
+        "The sun's gravity is the system's organising principle. Every planet, asteroid, and comet orbits the sun because the sun's mass curves spacetime around it, and the objects follow the geodesics of that curved geometry. The orbits are nearly circular and nearly coplanar, a fossil of the disc from which the system formed. The precision of the orbits, from Mercury's rapid circuit to Neptune's 165-year revolution, is a standing triumph of celestial mechanics, from Newton's Principia to the relativistic corrections of <a class='wiki-link' href='/science/physics/general-relativity'>general relativity</a>."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "The Terrestrial Planets",
+      "paragraphs": [
+        "Mercury, the innermost planet, is a world of extremes: a surface temperature range of more than six hundred degrees between its sunlit and shadowed sides, a cratered landscape, and a vast iron core that gives it the highest density of any planet. Venus, Earth's sister in size, is wrapped in a thick carbon dioxide atmosphere that traps heat in a runaway greenhouse effect, making it the hottest planet in the system despite its greater distance from the sun. Its surface pressure is ninety times Earth's, and its clouds of sulphuric acid reflect most of the sunlight that falls on it.",
+        "Earth is the only known planet with liquid water oceans, a breathable atmosphere, and life. Its magnetic field, generated by a liquid iron outer core, shields the surface from the solar wind, and its distance from the sun places it squarely in the habitable zone, where water can exist as a liquid. Mars, the red planet, is a cold desert with the largest volcano and the deepest canyon in the solar system, and its ancient riverbeds testify to a wetter past. The four terrestrial planets share rocky surfaces and relatively small sizes, but each is a distinct world.",
+        "The terrestrial planets are also the most explored. Spacecraft have orbited and landed on all four, revealing their geology, atmospheres, and histories in detail. Rovers on Mars search for signs of ancient life; orbiters map Venus through its clouds; and missions to Mercury have measured its interior and its shrinking core. The inner planets are the laboratory in which planetary science tests its theories of formation, climate, and habitability — theories that will be applied to the thousands of exoplanets now being discovered. The charts of the planets were once printed by the <a class='wiki-link' href='/history/inventions/printing-press'>printing press</a>; today they are published on the <a class='wiki-link' href='/technology/computing/world-wide-web'>World Wide Web</a>."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "The Giant Planets",
+      "paragraphs": [
+        "Jupiter, the largest planet, is more massive than all the other planets combined. It is a fluid world of hydrogen and helium, with no solid surface, and its Great Red Spot is a storm larger than Earth that has raged for centuries. Jupiter's powerful gravity acts as a shield for the inner solar system, deflecting comets and asteroids that might otherwise strike Earth. Its four large moons — Io, Europa, Ganymede, and Callisto, discovered by Galileo in 1610 — are worlds in their own right, with Europa's subsurface ocean a prime target in the search for life.",
+        "Saturn is famous for its rings, billions of ice particles ranging from grains of dust to boulders, spread across a span of nearly three hundred thousand kilometres yet only about ten metres thick. The planet itself is the least dense in the system, less dense than water, and its moon Enceladus sprays geysers of ocean water into space. Uranus and Neptune, the ice giants, are tilted and windy worlds: Uranus rolls around the sun on its side, and Neptune's winds reach the fastest speeds in the solar system. Each giant planet is a laboratory for fluid dynamics under pressures and temperatures that cannot be reproduced on Earth. Their interiors are laboratories for the physics of <a class='wiki-link' href='/science/physics/quantum-mechanics'>quantum mechanics</a> under pressures no laboratory can reproduce.",
+        "The giant planets are also the gatekeepers of the outer system. Their gravity sculpts the orbits of comets, asteroids, and Kuiper Belt objects, and their moons — more than two hundred and ninety are now known across the system — include some of the most promising habitats for life beyond Earth. Missions to Jupiter and Saturn have revealed their interiors, atmospheres, and moons in unprecedented detail, and the exploration of the ice giants is the next great frontier of planetary science."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Small Bodies: Asteroids, Comets, and Dwarf Planets",
+      "paragraphs": [
+        "Between Mars and Jupiter lies the asteroid belt, a torus of rocky debris containing millions of asteroids, from Ceres, the largest at nearly a thousand kilometres across, down to grains of dust. The asteroids are the leftover building material of the terrestrial planets, prevented from forming a planet by Jupiter's gravity. Some are pristine samples of the early solar system, and missions have returned material from them to Earth. Others, the near-Earth asteroids, cross the orbits of the inner planets and represent a hazard that planetary defence programmes now track and study.",
+        "Comets are the system's icy wanderers, bodies of ice, dust, and rock that travel in elongated orbits from the outer system. When a comet approaches the sun, its ices vaporise, forming the glowing coma and the twin tails that made comets objects of awe and terror for millennia. The Kuiper Belt, beyond Neptune, holds a vast population of icy bodies, including Pluto, Eris, Makemake, and Haumea, the dwarf planets whose discovery forced astronomers to redefine what a planet is. The Oort Cloud, a spherical shell of comets extending perhaps a light-year from the sun, marks the system's true edge.",
+        "Small bodies are the solar system's archive. Comets preserve the volatile ices of the early system; asteroids preserve its rocks; and meteorites, fragments that fall to Earth, are the oldest materials known, dating to the formation of the system itself. The study of small bodies is therefore the study of origins: of the planets, of Earth's water, and possibly of life itself, whose building blocks may have arrived on asteroids and comets in the first billion years."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Exploration and the Search for Life",
+      "paragraphs": [
+        "The exploration of the solar system is one of the great achievements of the space age. The Pioneer and Voyager spacecraft flew past the giant planets in the 1970s and 1980s, and the Voyagers are now in interstellar space, carrying the Golden Record, a message from Earth to any civilisation that might find them. Orbiters have mapped every planet; landers have touched Mars, Titan, and comets; and sample-return missions have brought material from asteroids and the sun back to Earth. The New Horizons mission flew past Pluto in 2015, revealing a complex world of nitrogen glaciers and possible cryovolcanoes. The Voyager Golden Record carries humanity's message outward, a library for the cosmos, echoing the ambition of the <a class='wiki-link' href='/history/ancient-civilizations/library-of-alexandria'>Library of Alexandria</a> to gather knowledge in one place. Every spacecraft is a triumph of the <a class='wiki-link' href='/technology/computing/history-of-computing'>history of computing</a>, from the slide rules of the Apollo engineers to the autonomous systems of today.",
+        "The search for life is the deepest motivation for exploration. Mars rovers search for evidence of ancient microbial life; Europa Clipper and JUICE will investigate the subsurface oceans of Jupiter's moons; and missions to Enceladus are planned to sample its geysers. The solar system is the only place where life is known to exist, and the question of whether it exists elsewhere in the system — or in the thousands of exoplanetary systems now known — is the central question of modern astronomy. The planets and moons of the solar system are the first places to look.",
+        "The solar system also provides the context for understanding <a class='wiki-link' href='/science/astronomy/black-holes'>black holes</a> and the universe beyond. The sun is a typical star, and the system is a typical planetary system, one of thousands now known around other stars. The laws that govern its formation and evolution are the laws that govern planetary systems everywhere. To study the solar system is therefore to study the universe in miniature: its stars, its planets, its small bodies, and the conditions under which a small rocky planet can give rise to life."
+      ]
+    }
+  ],
+  "pullQuote": {
+    "text": "We are all in the gutter, but some of us are looking at the stars.",
+    "source": "Oscar Wilde, Lady Windermere's Fan, 1892"
+  },
+  "media": [
+    {
+      "type": "image",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pillars%20of%20Creation%20(2014%20Hubble%20image).jpg",
+      "caption": "The Pillars of Creation in the Eagle Nebula, a stellar nursery photographed by the Hubble Space Telescope. Public domain image via NASA and Wikimedia Commons."
+    },
+    {
+      "type": "video",
+      "src": "https://www.youtube-nocookie.com/embed/4qaEwIfBFVE",
+      "caption": "Documentary: Our Solar System — The Complete Story. Embedded from YouTube."
+    }
+  ],
+  "seeAlso": [
+    "/science/physics/general-relativity",
+    "/science/astronomy/black-holes",
+    "/science/physics/quantum-mechanics",
+    "/biography/scientists/albert-einstein"
+  ],
+  "references": [
+    "NASA Solar System Exploration, solar system facts, science.nasa.gov.",
+    "Beatty, J. Kelly, Carolyn Collins Petersen, and Alan Dye, eds. The New Solar System. Sky & Telescope, 1999.",
+    "Montmerle, Thierry, and Patrick Michel. The Solar System. Springer, 2016.",
+    "NASA Voyager mission archive, voyager.jpl.nasa.gov.",
+    "International Astronomical Union, dwarf planet definition, 2006."
+  ]
+}
