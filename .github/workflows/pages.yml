@@ -28,7 +28,7 @@ jobs:
       - name: Build with GitHub Pages base path
         run: npm run build
         env:
-          VITE_BASE: /inkcraft-library/
+          VITE_BASE: /${{ github.event.repository.name }}/
       - name: Add SPA fallback and disable Jekyll
         run: |
           cp dist/index.html dist/404.html
@@ -37,7 +37,7 @@ jobs:
         run: |
           cd dist
           git init -q
-          git config user.name "InkCraft Library"
+          git config user.name "ICKITY"
           git config user.email "icklibrary@users.noreply.github.com"
           git add -A
           git commit -q -m "Publish site build ${GITHUB_SHA}"
