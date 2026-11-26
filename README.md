@@ -257,6 +257,6 @@ Enable **Enforce HTTPS** once the certificate is issued.
 Designed & Hosted, Developed by InkCraft Social
 Maintained & Hosted by ICKITY
 
-**Contact:** [ICKITY](https://github.com/ICKITY) — [nobojitshibam@gmail.com](mailto:nobojitshibam@gmail.com)
+**Contact:** [ICKITY](https://github.com/ICKITY) — [360687152+ICKITY@users.noreply.github.com](mailto:360687152+ICKITY@users.noreply.github.com)
 
 This is an Open Source website. Released under the MIT License — see [LICENSE](LICENSE). Contributions are governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
