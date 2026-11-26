@@ -1,0 +1,134 @@
+{
+  "slug": "black-holes",
+  "title": "Black Holes",
+  "category": "Science",
+  "subcategory": "Astronomy",
+  "path": "/science/astronomy/black-holes",
+  "summary": "Black holes are regions of spacetime where gravity is so intense that nothing, not even light, can escape. They are predicted by general relativity and observed throughout the universe, from stellar remnants to supermassive giants at galactic centres.",
+  "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20-%20Messier%2087%20crop%20max%20res.jpg",
+  "thumbnailCaption": "The shadow of the supermassive black hole in M87, photographed by the Event Horizon Telescope in 2019.",
+  "infobox": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20-%20Messier%2087%20crop%20max%20res.jpg",
+    "caption": "The first image of a black hole: the shadow of the 6.5-billion-solar-mass black hole in M87. Credit: Event Horizon Telescope Collaboration, public domain via Wikimedia Commons.",
+    "rows": [
+      {
+        "label": "Predicted",
+        "value": "1916, by Karl Schwarzschild, from Einstein's field equations"
+      },
+      {
+        "label": "First observed",
+        "value": "Cygnus X-1, 1971"
+      },
+      {
+        "label": "Types",
+        "value": "Stellar, intermediate, supermassive"
+      },
+      {
+        "label": "Key boundary",
+        "value": "The event horizon"
+      },
+      {
+        "label": "First image",
+        "value": "M87*, Event Horizon Telescope, 2019"
+      },
+      {
+        "label": "Gravitational waves",
+        "value": "First detected 2015, LIGO"
+      },
+      {
+        "label": "Related topics",
+        "value": "<a class='wiki-link' href='/science/physics/general-relativity'>General Relativity</a>, <a class='wiki-link' href='/science/astronomy/solar-system'>Solar System</a>"
+      }
+    ]
+  },
+  "intro": [
+    "A black hole is a region of spacetime where gravity is so intense that nothing — not matter, not light, not information — can escape from within a certain boundary. The boundary is called the event horizon, and it is not a physical surface but a point of no return: once crossed, every possible path leads inward. Black holes are the most extreme prediction of <a class='wiki-link' href='/science/physics/general-relativity'>general relativity</a>, the theory of gravity published by <a class='wiki-link' href='/biography/scientists/albert-einstein'>Albert Einstein</a> in 1915, and they have been confirmed by observation so thoroughly that they are now among the best-established objects in astronomy.",
+    "Black holes come in several sizes. Stellar black holes, a few times the mass of the sun, are the collapsed cores of massive stars. Supermassive black holes, millions or billions of times the mass of the sun, sit at the centres of nearly all large galaxies, including the Milky Way. Between them lie the elusive intermediate-mass black holes, whose existence is only now being confirmed. Each type is a laboratory for physics under conditions that cannot be reproduced on Earth, where the curvature of spacetime approaches the limits of the theory itself.",
+    "For most of the twentieth century, black holes were theoretical curiosities, doubted even by Einstein himself. The discovery of Cygnus X-1 in 1971, the measurement of stars orbiting the Milky Way's central black hole, the detection of gravitational waves from merging black holes in 2015, and the first photograph of a black hole's shadow in 2019 transformed them into observed reality. Black holes are now understood to be engines of cosmic evolution, shaping galaxies, powering quasars, and testing the foundations of physics."
+  ],
+  "sections": [
+    {
+      "level": "h2",
+      "heading": "The Schwarzschild Solution and the Event Horizon",
+      "paragraphs": [
+        "The black hole was discovered in the mathematics before it was discovered in the sky. Within weeks of Einstein's publication of the field equations in 1915, Karl Schwarzschild found the first exact solution, describing the spacetime around a non-rotating spherical mass. The solution contains a critical radius, the Schwarzschild radius, proportional to the mass: for the sun it is about three kilometres, for the Earth about nine millimetres. If a mass is compressed within its Schwarzschild radius, the escape velocity exceeds the speed of light, and the object becomes a black hole.",
+        "The Schwarzschild radius defines the event horizon, the boundary of the black hole. Outside the horizon, an observer can escape with sufficient thrust; inside it, every path through spacetime leads toward the singularity at the centre, where the curvature becomes infinite and the theory breaks down. The horizon is not a material surface: an infalling observer would cross it without noticing anything unusual, at least for a large black hole, and would have a finite time before reaching the singularity. The horizon is a property of the geometry, not of matter.",
+        "The singularity itself marks the limit of <a class='wiki-link' href='/science/physics/general-relativity'>general relativity</a>. At the centre of a black hole, the theory predicts infinite density and infinite curvature, which is a sign that the theory is incomplete: a quantum theory of gravity is needed to describe what actually happens there. The singularity is therefore not a physical prediction but a pointer, indicating where the current theory ends and a deeper theory must begin. The search for that theory is one of the central problems of fundamental physics."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Stellar Black Holes and Their Birth",
+      "paragraphs": [
+        "Stellar black holes are born in the deaths of massive stars. When a star more than about twenty times the mass of the sun exhausts its fuel, its core collapses under gravity in a fraction of a second, triggering a supernova explosion that blows away the outer layers. If the remaining core is more massive than about three solar masses, no known force can halt the collapse, and a black hole forms. The process is so violent that it briefly outshines its entire galaxy, and the black hole left behind is the star's ultimate remnant.",
+        "The first black hole identified was Cygnus X-1, discovered in 1971 through its X-ray emission. It is a stellar black hole of about fifteen solar masses, orbiting a blue supergiant star whose gas it strips and heats to millions of degrees, producing the X-rays by which it was detected. Since then, hundreds of stellar black holes have been identified in X-ray binaries, in gravitational wave mergers, and in the dynamics of star clusters. They are now known to be common: the Milky Way alone is thought to contain a hundred million of them.",
+        "Stellar black holes interact with their surroundings in spectacular ways. When they accrete gas from a companion star, the gas forms a hot, luminous disc whose X-rays make the black hole visible. When two stellar black holes merge, they emit gravitational waves that ripple through spacetime and can be detected across the universe. The LIGO observatories have recorded dozens of such mergers, revealing a population of black holes whose masses and spins are now being mapped in detail. Each merger is a direct observation of <a class='wiki-link' href='/science/physics/general-relativity'>general relativity</a> in its most extreme regime."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Supermassive Black Holes and Galactic Centres",
+      "paragraphs": [
+        "At the centre of nearly every large galaxy sits a supermassive black hole, millions or billions of times the mass of the sun. The Milky Way's central black hole, Sagittarius A*, has a mass of about four million solar masses, and its presence is proven by the orbits of stars that whip around it at thousands of kilometres per second. The galaxy M87 hosts a black hole of six and a half billion solar masses, the first to be photographed. Supermassive black holes are not rare exceptions; they are standard furniture of the universe.",
+        "Supermassive black holes grow by accreting gas and by merging with other black holes. When gas falls toward them, it forms an accretion disc heated to millions of degrees, and the brightest of these discs are quasars, the most luminous objects in the universe, outshining entire galaxies from the edge of the observable universe. The energy released by accretion is so vast that supermassive black holes influence the evolution of their host galaxies, heating gas, driving winds, and regulating star formation. The relationship between black hole mass and galaxy properties is one of the central puzzles of modern astronomy.",
+        "The growth of supermassive black holes poses a timing problem. Quasars existed less than a billion years after the Big Bang, when the universe was young, yet their black holes were already billions of times the mass of the sun. How did they grow so fast? Possible answers include the collapse of massive primordial gas clouds, the rapid merging of smaller black holes, and accretion at rates above theoretical limits. The James Webb Space Telescope is now discovering early supermassive black holes in numbers that challenge every model, and the problem of their origin remains open."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Hawking Radiation and the Information Paradox",
+      "paragraphs": [
+        "In 1974, Stephen Hawking showed that black holes are not entirely black. Quantum effects near the event horizon cause black holes to emit radiation, now called Hawking radiation, and to slowly evaporate over timescales vastly longer than the age of the universe. The temperature of a black hole is inversely proportional to its mass, so stellar black holes are colder than the cosmic background and cannot be observed through their radiation. But the prediction transformed the theory: black holes have temperature, entropy, and a finite lifetime, and they obey the laws of thermodynamics.",
+        "Hawking radiation created the information paradox, the deepest problem in black hole physics. If a black hole evaporates completely, what happens to the information about the matter that fell into it? <a class='wiki-link' href='/science/physics/quantum-mechanics'>Quantum mechanics</a> insists that information is never destroyed; <a class='wiki-link' href='/science/physics/general-relativity'>general relativity</a> insists that it is trapped behind the horizon forever. The two theories appear to contradict each other, and resolving the contradiction has driven theoretical physics for fifty years. Recent work using holography and the island formula suggests that the information is preserved in the radiation, but the full resolution remains elusive.",
+        "The paradox connects black holes to the foundations of physics. It asks whether <a class='wiki-link' href='/science/physics/quantum-mechanics'>quantum mechanics</a> and <a class='wiki-link' href='/science/physics/general-relativity'>general relativity</a> can both be true, and if so, how they fit together. The answer will likely require the quantum theory of gravity that neither theory contains. Black holes, once considered pathological, are now recognised as the key to the unification of physics: the one place where both theories must speak at once, and where their disagreement is sharpest."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Observing Black Holes: From X-rays to Shadows",
+      "paragraphs": [
+        "Black holes cannot be seen directly, because no light escapes from within the horizon. They are observed through their effects: the X-rays of accreting gas, the orbits of stars and gas clouds, the gravitational lensing of background light, and the gravitational waves of mergers. Each method reveals a different aspect of the black hole, and together they have built a complete picture. The orbits of stars around Sagittarius A* have been tracked for thirty years, confirming the black hole's mass and testing <a class='wiki-link' href='/science/physics/general-relativity'>general relativity</a> in its strongest field.",
+        "The Event Horizon Telescope achieved the most direct observation in 2019, when it published the first image of a black hole's shadow: the dark silhouette of the M87 black hole against the glowing ring of its accretion disc. The shadow's size matched the prediction of <a class='wiki-link' href='/science/physics/general-relativity'>general relativity</a> to within ten percent. In 2022, the telescope imaged the shadow of Sagittarius A*, the Milky Way's own black hole. These images are among the most celebrated in the history of science, turning a theoretical abstraction into a photograph.",
+        "Gravitational wave astronomy has opened a second window. Since the first detection in 2015, LIGO and Virgo have recorded dozens of black hole mergers, measuring their masses, spins, and distances with precision. The mergers reveal black holes in mass ranges that cannot form from stellar collapse, hinting at exotic formation channels. Together with electromagnetic observations, gravitational waves are transforming black holes from isolated curiosities into a population whose properties can be studied statistically. The <a class='wiki-link' href='/science/astronomy/solar-system'>solar system</a> is a quiet corner of the universe by comparison: black holes are where the universe is loudest."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Black Holes and the Fate of the Universe",
+      "paragraphs": [
+        "Black holes shape the universe at every scale. Stellar black holes are the endpoints of stellar evolution, the final state of the most massive stars. Supermassive black holes regulate the growth of galaxies, their feedback heating the gas that would otherwise form stars. The mergers of black holes seed the gravitational wave background that ripples through spacetime. And the evaporation of black holes, over timescales of ten to the sixty-seventh power years, may be the final process in the universe's history, long after the last stars have died and the last galaxies have dispersed.",
+        "Black holes also test the limits of knowledge. The singularity at their centres marks where <a class='wiki-link' href='/science/physics/general-relativity'>general relativity</a> fails; the information paradox marks where <a class='wiki-link' href='/science/physics/quantum-mechanics'>quantum mechanics</a> and gravity conflict; and the origin of supermassive black holes marks where cosmology is incomplete. Each failure is a clue, pointing toward the deeper theory that will replace both. The history of physics is a history of such failures: Newton's theory failed at Mercury's orbit and was replaced by Einstein's; Einstein's fails at the singularity and will be replaced in turn.",
+        "The black hole is thus both an object and a question. As an object, it is a confirmed, photographed, and measured reality, the most extreme prediction of <a class='wiki-link' href='/science/physics/general-relativity'>general relativity</a> and its greatest triumph. As a question, it asks what happens when gravity and <a class='wiki-link' href='/science/physics/quantum-mechanics'>quantum mechanics</a> meet, and the answer will define the next century of physics. Few objects in science carry so much weight: a region of darkness that illuminates the foundations of everything."
+      ]
+    }
+  ],
+  "pullQuote": {
+    "text": "Black holes are where God would put the universe if he wanted to hide it.",
+    "source": "Stephen Hawking, physicist"
+  },
+  "media": [
+    {
+      "type": "image",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Artist%27s%20impression%20of%20a%20black%20hole.jpg",
+      "caption": "Artist's impression of a black hole with an accretion disc and relativistic jets. Public domain image via NASA and Wikimedia Commons."
+    },
+    {
+      "type": "video",
+      "src": "https://www.youtube-nocookie.com/embed/nJ4d4QEDOYM",
+      "caption": "NASA Science: What is a black hole? Astro-Investigates Episode 1. Embedded from YouTube."
+    }
+  ],
+  "seeAlso": [
+    "/science/physics/general-relativity",
+    "/science/astronomy/solar-system",
+    "/science/physics/quantum-mechanics",
+    "/biography/scientists/albert-einstein"
+  ],
+  "references": [
+    "Schwarzschild, Karl. On the Gravitational Field of a Mass Point. 1916.",
+    "Hawking, Stephen W. Black Hole Explosions? Nature, 1974.",
+    "Event Horizon Telescope Collaboration. First M87 Event Horizon Telescope Results. Astrophysical Journal Letters, 2019.",
+    "Abbott, B. P., et al. Observation of Gravitational Waves from a Binary Black Hole Merger. Physical Review Letters, 2016.",
+    "Thorne, Kip S. Black Holes and Time Warps. W. W. Norton, 1994."
+  ]
+}

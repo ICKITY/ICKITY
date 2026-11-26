@@ -1,0 +1,130 @@
+{
+  "slug": "quantum-mechanics",
+  "title": "Quantum Mechanics",
+  "category": "Science",
+  "subcategory": "Physics",
+  "path": "/science/physics/quantum-mechanics",
+  "summary": "Quantum mechanics is the fundamental theory of nature at small scales, describing how particles behave probabilistically, how waves and particles unify, and how measurement shapes reality.",
+  "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Quantum%20mechanics.svg",
+  "thumbnailCaption": "The Schrodinger equation, the central equation of quantum mechanics.",
+  "infobox": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Quantum%20mechanics.svg",
+    "caption": "The Schrodinger equation governs the evolution of the quantum wavefunction. Public domain diagram via Wikimedia Commons.",
+    "rows": [
+      {
+        "label": "Developed",
+        "value": "1900–1927, by Planck, Bohr, Heisenberg, Schrodinger, Born, Dirac and others"
+      },
+      {
+        "label": "Core equation",
+        "value": "The Schrodinger equation, 1926"
+      },
+      {
+        "label": "Key principles",
+        "value": "Superposition, uncertainty, entanglement, wave-particle duality"
+      },
+      {
+        "label": "Founders",
+        "value": "Max Planck, Niels Bohr, Werner Heisenberg, Erwin Schrodinger, Max Born"
+      },
+      {
+        "label": "Applications",
+        "value": "Lasers, semiconductors, MRI, quantum computing, cryptography"
+      },
+      {
+        "label": "Related topics",
+        "value": "<a class='wiki-link' href='/biography/scientists/albert-einstein'>Albert Einstein</a>, <a class='wiki-link' href='/science/physics/general-relativity'>General Relativity</a>"
+      }
+    ]
+  },
+  "intro": [
+    "Quantum mechanics is the fundamental theory of physics at the scale of atoms and smaller, and it is the most successful theory in the history of science. It describes how electrons orbit nuclei, how light is emitted and absorbed, how chemical bonds form, and how the behaviour of matter emerges from the behaviour of particles. Its predictions have been verified to a precision unmatched by any other theory: the magnetic moment of the electron, for example, agrees with experiment to more than ten decimal places. Yet its concepts — superposition, uncertainty, and entanglement — defy every intuition formed by everyday experience.",
+    "The theory was born from a crisis. At the end of the nineteenth century, classical physics could not explain the spectrum of light emitted by hot objects, the stability of atoms, or the photoelectric effect. Max Planck's proposal in 1900 that energy comes in discrete packets, or quanta, opened the door, and over the next three decades a generation of physicists — Niels Bohr, Werner Heisenberg, Erwin Schrodinger, Max Born, and Paul Dirac among them — built the complete theory. <a class='wiki-link' href='/biography/scientists/albert-einstein'>Albert Einstein</a>, whose own work on the photoelectric effect had helped launch the quantum revolution, famously resisted its probabilistic interpretation, insisting that God does not play dice with the universe.",
+    "Quantum mechanics is not merely a theory of the very small. It is the foundation of modern technology: lasers, transistors, integrated circuits, magnetic resonance imaging, and the emerging field of quantum computing all depend on it. It also frames the deepest questions in science, from the nature of measurement to the unification of gravity with the other forces. To understand quantum mechanics is to understand the rules by which the universe is built — rules that are strange, precise, and utterly reliable."
+  ],
+  "sections": [
+    {
+      "level": "h2",
+      "heading": "The Crisis of Classical Physics",
+      "paragraphs": [
+        "By 1900, physics appeared complete. Newton's laws described the motion of planets and projectiles, Maxwell's equations described light and electromagnetism, and thermodynamics described heat. Lord Kelvin famously declared that there was little left to discover, except for two small clouds on the horizon: the failure of classical physics to explain blackbody radiation and the failure to explain the specific heats of solids. Those two clouds would become a storm that destroyed the classical worldview and replaced it with the quantum one. The same human curiosity that raised the cities of the <a class='wiki-link' href='/geography/ancient-sites/indus-valley-civilization'>Indus Valley Civilization</a> would one day ask what atoms are made of, and the heavens that Newton described in the <a class='wiki-link' href='/science/astronomy/solar-system'>solar system</a> were about to be reinterpreted at the atomic scale.",
+        "The blackbody problem concerned the spectrum of light emitted by a hot object. Classical physics predicted that an object should radiate infinite energy at short wavelengths, a prediction so absurd it was called the ultraviolet catastrophe. Planck solved the problem in 1900 by proposing that energy is exchanged in discrete quanta, proportional to the frequency of the light. The solution worked perfectly, but Planck himself regarded it as a mathematical trick rather than a physical reality. Einstein, in 1905, took the step Planck would not: he proposed that light itself consists of quanta, now called photons, and explained the photoelectric effect, in which light ejects electrons from metal only above a certain frequency.",
+        "The stability of the atom posed a second crisis. In Rutherford's model, electrons orbit the nucleus like planets, but classical electromagnetism predicts that an accelerating charged particle should radiate energy and spiral into the nucleus within a fraction of a second. Atoms should not exist. Bohr's model of 1913 rescued the atom by fiat, proposing that electrons occupy only certain allowed orbits and jump between them by absorbing or emitting photons. The model worked, but it was a patch on a broken theory. The complete solution required the full quantum mechanics of the 1920s."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Wave-Particle Duality and the Schrodinger Equation",
+      "paragraphs": [
+        "In 1924, Louis de Broglie proposed that matter, like light, has a dual nature: particles also behave as waves. The hypothesis was confirmed within three years by the diffraction of electrons in crystals. The implication was profound. An electron is not a tiny ball orbiting a nucleus; it is a wave spread through space, and its position can only be described probabilistically. The classical picture of particles with definite positions and momenta had to be abandoned.",
+        "In 1926, Erwin Schrodinger wrote the equation that governs this wave behaviour. The Schrodinger equation describes how the wavefunction of a quantum system evolves in time, and the square of the wavefunction gives the probability of finding the particle at each point. The equation solved the hydrogen atom exactly, explained the periodic table, and provided the mathematical foundation for chemistry. It remains the central equation of non-relativistic quantum mechanics, as Newton's laws were for classical mechanics.",
+        "Heisenberg's matrix mechanics, developed in the same year, reached the same physics by a different route, working with arrays of numbers rather than waves. The two formulations were shown to be equivalent, and Dirac's transformation theory unified them. The convergence of independent approaches on a single theory was a sign that quantum mechanics had captured something real. The theory was complete by 1927, and the Solvay Conference of that year became the legendary battleground over its interpretation."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Superposition and the Uncertainty Principle",
+      "paragraphs": [
+        "The most characteristic feature of quantum mechanics is superposition: a quantum system can exist in a combination of states until it is measured. An electron can be in a superposition of positions, a photon in a superposition of polarisations, and a quantum computer can process many values at once by exploiting superposition. When a measurement is made, the superposition collapses to a single outcome, with probabilities given by the Born rule. The theory predicts the probabilities with perfect accuracy, but it does not say which outcome will occur in any individual case.",
+        "Superposition is constrained by the uncertainty principle, formulated by Heisenberg in 1927. The principle states that certain pairs of properties, such as position and momentum, cannot both be known precisely at the same time. The more precisely the position is known, the less precisely the momentum can be known, and vice versa. The uncertainty principle is not a limitation of measurement technology; it is a property of quantum systems themselves, reflecting the wave nature of particles. A wave spread through space cannot have a precise position and a precise wavelength at once.",
+        "These principles have been tested in experiments of extraordinary delicacy. The double-slit experiment shows that a single electron, sent through two slits one at a time, produces an interference pattern as if it passed through both slits at once — until an attempt is made to observe which slit it took, whereupon the pattern vanishes. The experiment, performed with electrons, photons, and even large molecules, is the purest demonstration that quantum mechanics describes a reality fundamentally different from the classical one."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Entanglement and the EPR Debate",
+      "paragraphs": [
+        "In 1935, Einstein, Boris Podolsky, and Nathan Rosen published a paper arguing that quantum mechanics must be incomplete, because it allowed two particles to become entangled: correlated in such a way that measuring one instantly determines the state of the other, however far apart they are. Einstein called this spooky action at a distance and insisted that a deeper, hidden-variable theory must underlie the quantum formalism. Bohr replied that the demand for such a theory rested on classical assumptions that quantum mechanics had already refuted.",
+        "The debate remained philosophical for thirty years, until John Bell proved in 1964 that no hidden-variable theory of the EPR type could reproduce all the predictions of quantum mechanics. Experiments beginning in the 1970s, notably those of Alain Aspect, confirmed Bell's theorem: entanglement is real, and the correlations between entangled particles violate every local hidden-variable theory. Einstein's objection was answered by experiment, and the answer favoured quantum mechanics. Entanglement, once a paradox, is now a resource, exploited in quantum cryptography and quantum computing.",
+        "Entanglement also connects quantum mechanics to <a class='wiki-link' href='/science/physics/general-relativity'>general relativity</a> in a way that remains unresolved. The theory of gravity describes spacetime as a smooth continuum, while quantum mechanics describes a world of discrete, entangled particles. The <a class='wiki-link' href='/science/astronomy/black-holes'>black hole</a> information paradox, which asks what happens to quantum information that falls into a black hole, is the sharpest form of the conflict. Resolving it will likely require the quantum theory of gravity that both theories point toward but neither contains."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Interpretations: What Does the Theory Mean?",
+      "paragraphs": [
+        "Quantum mechanics is the most successful theory in physics, but its interpretation remains contested. The Copenhagen interpretation, associated with Bohr and Heisenberg, holds that the wavefunction is a complete description of reality and that measurement creates definite outcomes. The many-worlds interpretation, proposed by Hugh Everett in 1957, holds that every measurement branches the universe into multiple worlds, each containing one outcome, so that no collapse ever occurs. Pilot-wave theories, revived by David Bohm, restore definite particle trajectories guided by the wavefunction.",
+        "Each interpretation reproduces the same experimental predictions, which is why the debate persists: the interpretations differ not in what they predict but in what they claim about reality. The question of what happens during measurement — whether the wavefunction collapses, branches, or was never the whole story — has no experimental answer, because the interpretations are empirically equivalent. The debate is therefore philosophical, but it is not empty: it concerns the nature of reality itself, and it has driven the development of quantum information science.",
+        "The practical success of quantum mechanics does not depend on resolving the debate. Engineers build lasers, chips, and quantum computers using the formalism, and the devices work. The theory's strangeness is confined to its interpretation; its predictions are exact. As Richard Feynman observed, nobody understands quantum mechanics, in the sense of picturing it in classical terms — and yet it works. The theory is a reminder that nature is under no obligation to match our intuitions. The library that once gathered the world's knowledge, the <a class='wiki-link' href='/history/ancient-civilizations/library-of-alexandria'>Library of Alexandria</a>, would have recognised the ambition of a theory that seeks to describe everything."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Quantum Technology and the Second Quantum Revolution",
+      "paragraphs": [
+        "The first quantum revolution, the theoretical breakthrough of the 1920s, produced the technologies of the twentieth century. The transistor, invented in 1947, depends on quantum tunnelling and band structure; the laser, demonstrated in 1960, depends on stimulated emission; magnetic resonance imaging depends on nuclear spin transitions; and the integrated circuit, the foundation of the <a class='wiki-link' href='/technology/computing/history-of-computing'>history of computing</a>, is a quantum device in every layer. Modern electronics is applied quantum mechanics, and its success is the theory's most practical vindication. Just as the <a class='wiki-link' href='/history/inventions/printing-press'>printing press</a> made books abundant, the transistor made computation abundant. The <a class='wiki-link' href='/technology/computing/world-wide-web'>World Wide Web</a> itself runs on quantum devices, from the lasers in its fibre networks to the chips in its servers.",
+        "A second quantum revolution is now under way, exploiting the theory's strangest features — superposition and entanglement — as resources. Quantum computers, which use qubits in superposition to perform certain calculations exponentially faster than classical machines, have moved from theory to laboratory prototypes. Quantum cryptography uses entangled photons to guarantee the security of communications. Quantum sensors measure time, gravity, and magnetic fields with precisions that classical instruments cannot approach. Each of these technologies is a direct application of the principles that Einstein found so troubling.",
+        "Quantum mechanics thus stands at the centre of modern physics and modern technology alike. It explains the atom, the molecule, and the solid; it underlies the devices in every home and hospital; and it poses the questions that drive fundamental research, from the measurement problem to the unification of gravity. The theory that began as a crisis in classical physics has become the foundation on which the world is built — strange, precise, and triumphant."
+      ]
+    }
+  ],
+  "pullQuote": {
+    "text": "Nobody understands quantum mechanics. This is a statement not only of fact, but of policy. Nobody is required to understand it. It is enough that it works.",
+    "source": "After Richard Feynman, physicist"
+  },
+  "media": [
+    {
+      "type": "image",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Double-slit%20experiment%20illustration.svg",
+      "caption": "The double-slit experiment, the classic demonstration of wave-particle duality. Public domain diagram via Wikimedia Commons."
+    },
+    {
+      "type": "video",
+      "src": "https://www.youtube-nocookie.com/embed/ivFVJX1kulM",
+      "caption": "Documentary: Quantum Physics Explained — The Strange World of Quantum Mechanics. Embedded from YouTube."
+    }
+  ],
+  "seeAlso": [
+    "/biography/scientists/albert-einstein",
+    "/science/physics/general-relativity",
+    "/technology/computing/history-of-computing",
+    "/science/astronomy/black-holes"
+  ],
+  "references": [
+    "Feynman, Richard P. QED: The Strange Theory of Light and Matter. Princeton University Press, 1985.",
+    "Schrodinger, Erwin. The Interpretation of Quantum Mechanics. Ox Bow Press, 1995.",
+    "Bell, John S. Speakable and Unspeakable in Quantum Mechanics. Cambridge University Press, 1987.",
+    "Aspect, Alain. Closing the Door on Einstein and Bohr's Quantum Debate. Physics, 2015.",
+    "Nobel Prize in Physics, quantum mechanics laureates, nobelprize.org."
+  ]
+}
