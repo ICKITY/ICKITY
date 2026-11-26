@@ -1,0 +1,134 @@
+{
+  "slug": "albert-einstein",
+  "title": "Albert Einstein",
+  "category": "Biography",
+  "subcategory": "Scientists",
+  "path": "/biography/scientists/albert-einstein",
+  "summary": "Albert Einstein (1879–1955) was the physicist who revolutionised our understanding of space, time, and gravity, and whose name has become synonymous with genius itself.",
+  "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20Head.jpg",
+  "thumbnailCaption": "Albert Einstein, photographed in 1921, the year he received the Nobel Prize in Physics.",
+  "infobox": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20Head.jpg",
+    "caption": "Albert Einstein in 1921. Public domain photograph via Wikimedia Commons.",
+    "rows": [
+      {
+        "label": "Born",
+        "value": "14 March 1879, Ulm, Germany"
+      },
+      {
+        "label": "Died",
+        "value": "18 April 1955, Princeton, New Jersey, USA"
+      },
+      {
+        "label": "Field",
+        "value": "Theoretical physics"
+      },
+      {
+        "label": "Major works",
+        "value": "Special relativity (1905), photoelectric effect (1905), general relativity (1915), E = mc2"
+      },
+      {
+        "label": "Nobel Prize",
+        "value": "Physics, 1921, for the photoelectric effect"
+      },
+      {
+        "label": "Citizenship",
+        "value": "German, Swiss, American"
+      },
+      {
+        "label": "Related topics",
+        "value": "<a class='wiki-link' href='/science/physics/general-relativity'>General Relativity</a>, <a class='wiki-link' href='/science/physics/quantum-mechanics'>Quantum Mechanics</a>"
+      }
+    ]
+  },
+  "intro": [
+    "Albert Einstein (1879–1955) was a theoretical physicist whose work transformed the understanding of space, time, gravity, and the nature of reality itself. In a single year, 1905, the twenty-six-year-old patent clerk published the papers that founded special relativity, explained the photoelectric effect, and derived the equivalence of mass and energy. A decade later he completed <a class='wiki-link' href='/science/physics/general-relativity'>general relativity</a>, the theory of gravity that remains the foundation of cosmology. Einstein's name has become synonymous with genius, and his equations — above all E = mc2 — are the most famous in science.",
+    "Einstein's life was as remarkable as his work. Born in Ulm, Germany, to a Jewish family of modest means, he failed his university entrance examination, struggled as a schoolteacher, and worked in a patent office while doing physics in his spare time. His annus mirabilis of 1905 was achieved without a laboratory, without a research group, and without institutional support — purely by thought. He received the Nobel Prize in Physics in 1921, fled Nazi Germany in 1933, and spent his final twenty-two years at Princeton, searching for a unified theory that he never found.",
+    "Einstein's influence extends far beyond physics. He was a passionate advocate for peace, civil rights, and international government; a violinist and philosopher; and a cultural icon whose face is recognised around the world. His theories underlie satellite navigation, nuclear energy, cosmology, and the study of <a class='wiki-link' href='/science/astronomy/black-holes'>black holes</a>. To read Einstein's biography is to read the story of how one mind, armed with thought experiments and mathematics, remade the universe."
+  ],
+  "sections": [
+    {
+      "level": "h2",
+      "heading": "Childhood and Education",
+      "paragraphs": [
+        "Albert Einstein was born on 14 March 1879 in Ulm, in the Kingdom of Württemberg, the son of Hermann Einstein, an engineer, and Pauline Koch. The family was Jewish, secular, and middle-class, and Albert was a quiet, solitary child who spoke late and preferred books to games. His parents recognised his intelligence and nurtured it: his father and his uncle Jacob gave him books on mathematics and physics, and the family friend Max Talmey introduced him to philosophy and higher mathematics. At twelve, Einstein was reading differential calculus on his own.",
+        "The family moved to Munich in 1880, and Einstein attended the Luitpold Gymnasium, where he excelled in mathematics and physics but chafed at the school's authoritarian discipline. He left Germany at fifteen to join his parents in Italy, and then attended the cantonal school in Aarau, Switzerland, where he prepared for university. In 1896 he entered the Federal Polytechnic School in Zurich, the ETH, where he studied mathematics and physics. He was a brilliant student in theory but a poor experimentalist, and he graduated in 1900 with a teaching diploma and no prospects.",
+        "Einstein's early career was a struggle. He could not find a teaching position, and in 1902 his friend Marcel Grossmann helped him obtain a post as a technical expert at the Swiss Federal Office for Intellectual Property, the patent office in Bern. The job was undemanding, and Einstein used its quiet hours to do physics. He married Mileva Maric, a fellow student at the ETH, in 1903, and their two sons, Hans Albert and Eduard, were born in Bern. The patent clerk years were the making of the physicist: Einstein later said that the patent office was the best place in the world to think."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "The Miraculous Year: 1905",
+      "paragraphs": [
+        "In 1905, Einstein published five papers in the Annalen der Physik that changed physics forever. The first explained the photoelectric effect, showing that light consists of quanta of energy, or photons, and earning him the Nobel Prize. The second derived the Brownian motion of particles from molecular theory, providing the first experimental proof of the existence of atoms. The third introduced special relativity, showing that the laws of physics are the same for all observers in uniform motion and that space and time are relative. The fourth derived E = mc2, the equivalence of mass and energy. The fifth explained the photoelectric effect in detail.",
+        "The papers were revolutionary in method as much as in content. Einstein worked by thought experiment: he imagined himself riding alongside a beam of light, or chasing a light clock, and reasoned about what he would see. The thought experiment, a tool he had honed in the patent office, allowed him to explore the consequences of physical principles without apparatus. The 1905 papers were written in a few weeks each, by a man with no laboratory, no research group, and no institutional position. The annus mirabilis remains the most productive year in the history of science.",
+        "The scientific community was slow to accept Einstein's ideas. The photoelectric effect was confirmed by Millikan, who set out to disprove it and instead proved it. Special relativity was accepted gradually, as its predictions were confirmed. The Brownian motion paper convinced the last sceptics of the reality of atoms. By 1910, Einstein was recognised as a physicist of the first rank, and in 1914 he moved to Berlin, to the Kaiser Wilhelm Institute for Physics, where he would complete his greatest work."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "General Relativity: The Happiest Thought",
+      "paragraphs": [
+        "In November 1907, Einstein had what he later called the happiest thought of his life: that a person in free fall does not feel their own weight. The observation led to the equivalence principle, the insight that gravity and acceleration are indistinguishable, and from it Einstein spent eight years building <a class='wiki-link' href='/science/physics/general-relativity'>general relativity</a>. The work required him to master Riemannian geometry and tensor calculus, fields he had neglected as a student, and he was guided by his friend Marcel Grossmann, who introduced him to the mathematics. The theory was completed in November 1915, when Einstein presented the field equations to the Prussian Academy of Sciences.",
+        "<a class='wiki-link' href='/science/physics/general-relativity'>General relativity</a>, described in full in the article on <a class='wiki-link' href='/science/physics/general-relativity'>general relativity</a>, replaced Newton's theory of gravity with a theory of curved spacetime. It explained the precession of Mercury's orbit, predicted the bending of starlight, and contained the <a class='wiki-link' href='/science/astronomy/black-holes'>black hole</a> in its mathematics. Its first great confirmation came in 1919, when Eddington's eclipse expedition observed the deflection of starlight, and the announcement made Einstein world-famous. The theory has been confirmed by every test for more than a century, from the Hulse-Taylor pulsar to the gravitational waves detected in 2015.",
+        "The decade of <a class='wiki-link' href='/science/physics/general-relativity'>general relativity</a> was the summit of Einstein's scientific life. He was forty-six when he completed it, and it was his last complete theory. The remaining forty years of his life were spent searching for a unified field theory that would combine gravity with electromagnetism, a quest he pursued at Princeton without success. The search was premature: the quantum theory of the other forces was still being built, and the unification of gravity with <a class='wiki-link' href='/science/physics/quantum-mechanics'>quantum mechanics</a> remains the unfinished business of physics. Einstein's final quest failed, but it failed in the direction of the deepest problems in science."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Einstein and Quantum Mechanics",
+      "paragraphs": [
+        "Einstein was a founder of <a class='wiki-link' href='/science/physics/quantum-mechanics'>quantum mechanics</a> and its most famous critic. His 1905 paper on the photoelectric effect introduced the photon, the quantum of light, and his work on specific heats and the Compton effect helped establish the quantum theory of radiation. Yet when the theory developed into its probabilistic form in the 1920s, Einstein rejected its interpretation. With Boris Podolsky and Nathan Rosen, he argued in 1935 that quantum mechanics must be incomplete, because it allowed entangled particles to affect each other instantaneously across any distance. He called it spooky action at a distance, and he insisted that a deeper theory with hidden variables must underlie the quantum formalism.",
+        "The EPR debate, described in the article on <a class='wiki-link' href='/science/physics/quantum-mechanics'>quantum mechanics</a>, was resolved by experiment in Einstein's disfavour. John Bell proved in 1964 that no hidden-variable theory of the EPR type could reproduce <a class='wiki-link' href='/science/physics/quantum-mechanics'>quantum mechanics</a>, and Alain Aspect's experiments in the 1980s confirmed Bell's theorem. Entanglement is real, and Einstein's objection was answered. The irony is complete: Einstein's challenge to quantum mechanics produced the experiments that confirmed it, and his paradox became the foundation of quantum information science. The man who doubted the quantum world gave it its most productive problem.",
+        "Einstein's relationship with <a class='wiki-link' href='/science/physics/quantum-mechanics'>quantum mechanics</a> reveals his philosophy of science. He believed that a complete theory must describe reality as it is, with definite properties existing independently of observation, and he could not accept a theory that described only probabilities. The belief was classical, and the quantum world is not classical. Einstein's resistance to quantum mechanics was the resistance of a great mind to a revolution it had helped to start, and it remains a cautionary tale: that even genius can be bound by the intuitions of its own era."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Exile, Princeton, and the Atomic Age",
+      "paragraphs": [
+        "In 1933, Einstein was visiting the United States when Adolf Hitler came to power in Germany. Einstein, who was Jewish and an outspoken pacifist, recognised that he could not return, and he settled at the Institute for Advanced Study in Princeton, New Jersey, where he remained for the rest of his life. His property in Germany was confiscated, and his books were burned. The exile of Einstein and the other Jewish scientists who fled Europe — including Fermi, Bohr's collaborators, and the founders of <a class='wiki-link' href='/science/physics/quantum-mechanics'>quantum mechanics</a> — transferred the centre of physics from Europe to America, a migration that shaped the twentieth century.",
+        "Einstein's role in the atomic age was indirect but consequential. In 1939, he signed the letter to President Roosevelt, drafted by Leo Szilard, warning that Nazi Germany might build an atomic bomb and urging the United States to begin its own programme. The letter led to the Manhattan Project, and the bombs dropped on Hiroshima and Nagasaki in 1945. Einstein was horrified by the outcome and spent the rest of his life advocating nuclear disarmament and world government. The man whose equation E = mc2 had revealed the energy in the atom became the most famous voice for its control.",
+        "At Princeton, Einstein worked on his unified field theory and on the philosophy of science. He corresponded with scientists around the world, advised on public questions, and became a global symbol of reason and conscience. He refused the presidency of Israel in 1952, accepting instead a role as an elder statesman of science and peace. He died on 18 April 1955, of an aortic aneurysm, in Princeton, and his brain was preserved for study. The exile who had remade physics spent his final years as the world's most famous conscience."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Legacy: The Mind That Remade the Universe",
+      "paragraphs": [
+        "Einstein's legacy is written into the fabric of modern life. <a class='wiki-link' href='/science/physics/general-relativity'>General relativity</a> governs the orbits of the <a class='wiki-link' href='/science/astronomy/solar-system'>solar system</a>, the expansion of the universe, and the clocks of satellite navigation. Special relativity governs the behaviour of particles at high energies and the design of particle accelerators. The photoelectric effect governs solar cells, photomultipliers, and the sensors of every digital camera. E = mc2 governs nuclear energy, stellar evolution, and the mass of every object in the universe. Einstein's theories are not museum pieces; they are the working tools of science and technology.",
+        "Einstein's cultural legacy is equally vast. He is the archetype of the genius, the face of science, and the patron saint of the thought experiment. His violin, his sailing, his humour, and his humanity are as well known as his equations. He showed that a person with no laboratory, no institution, and no resources could remake the universe by thought alone, and that the deepest truths of nature are accessible to reason. The patent clerk who solved physics in his spare time remains the inspiration of every student who wonders whether they too could change the world.",
+        "The biography of Albert Einstein is the biography of modern physics. His theories of relativity frame the cosmos; his quantum work frames the atom; his life frames the moral questions of science in the atomic age. The encyclopedia that bears his name in this library is one of ten, but his influence touches all of them: the <a class='wiki-link' href='/history/ancient-civilizations/library-of-alexandria'>library</a> that gathered knowledge, the <a class='wiki-link' href='/history/inventions/printing-press'>press</a> that spread it, the <a class='wiki-link' href='/technology/computing/world-wide-web'>web</a> that delivers it, and the <a class='wiki-link' href='/science/astronomy/black-holes'>black holes</a> that his theory predicted. Einstein remade the universe, and the universe has been remade ever since."
+      ]
+    }
+  ],
+  "pullQuote": {
+    "text": "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.",
+    "source": "Albert Einstein, physicist"
+  },
+  "media": [
+    {
+      "type": "image",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Einstein%20at%20the%20beach.jpg",
+      "caption": "Albert Einstein at the beach in 1930, photographed during a visit to California. Public domain photograph via Wikimedia Commons."
+    },
+    {
+      "type": "video",
+      "src": "https://www.youtube-nocookie.com/embed/0zk-NVPYPWk",
+      "caption": "Documentary: Albert Einstein — Greatest Brain of the 20th Century. Embedded from YouTube."
+    }
+  ],
+  "seeAlso": [
+    "/science/physics/general-relativity",
+    "/science/physics/quantum-mechanics",
+    "/science/astronomy/black-holes",
+    "/science/astronomy/solar-system"
+  ],
+  "references": [
+    "Pais, Abraham. Subtle is the Lord: The Science and the Life of Albert Einstein. Oxford University Press, 1982.",
+    "Einstein, Albert. Relativity: The Special and General Theory. Methuen, 1920.",
+    "Isaacson, Walter. Einstein: His Life and Universe. Simon & Schuster, 2007.",
+    "Nobel Prize in Physics 1921, nobelprize.org.",
+    "Einstein House Bern, einsteinbern.ch."
+  ]
+}
