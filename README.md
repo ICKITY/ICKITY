@@ -14,7 +14,7 @@ This is an Open Source website.
 
 </div>
 
-InkCraft Library is a complete, production-ready encyclopedia built as a lightweight single-page application. It publishes ten full-length, unabridged, multi-paragraph Wikipedia-style articles across history, science, technology, geography, and biography — every article densely interlinked with clickable wiki-links and hover preview cards, illustrated with verified public-domain photography, and rendered in a three-column academic layout with a sticky contents sidebar, a drop-cap lead paragraph, pull quotes, a Wikipedia-style fact infobox, a topic navbox, and numbered academic references.
+InkCraft Library is a complete, production-ready encyclopedia built as a lightweight single-page application. It publishes eleven full-length, unabridged, multi-paragraph Wikipedia-style articles across history, science, technology, geography, and biography — every article densely interlinked with clickable wiki-links and hover preview cards, illustrated with verified public-domain photography, and rendered in a three-column academic layout with a sticky contents sidebar, a drop-cap lead paragraph, pull quotes, a Wikipedia-style fact infobox, a topic navbox, and numbered academic references.
 
 Every page of the site carries the exact browser title **InkCraft Library**. Every image is a real, verified public-domain photograph from Wikimedia Commons, NASA archives, or the Library of Congress — there is no AI-generated media anywhere in this repository. Every icon is a hand-coded SVG, and there are no emojis anywhere in the codebase, the articles, or this documentation.
 
@@ -65,7 +65,8 @@ inkcraft-library/
 │   │       └── indus-valley-civilization.json
 │   └── biography/
 │       └── scientists/
-│           └── albert-einstein.json
+│           ├── albert-einstein.json
+│           └── oppenheimer.json
 ├── public/
 │   ├── logo.svg
 │   └── favicon.svg
@@ -84,7 +85,7 @@ The route of an article is its folder path: `content/history/ancient-civilizatio
 
 ---
 
-## The Ten Articles
+## The Eleven Articles
 
 | # | Article | Route |
 |---|---|---|
@@ -98,6 +99,7 @@ The route of an article is its folder path: `content/history/ancient-civilizatio
 | 8 | History of Computing | `/technology/computing/history-of-computing` |
 | 9 | Indus Valley Civilization | `/geography/ancient-sites/indus-valley-civilization` |
 | 10 | Albert Einstein | `/biography/scientists/albert-einstein` |
+| 11 | Oppenheimer | `/biography/scientists/oppenheimer` |
 
 Every article contains 1,200+ words of full explanatory prose: three rich introductory paragraphs followed by six detailed H2/H3 sections of three to four paragraphs each. Inside the body paragraphs, mentions of the other topics are wrapped in interactive wiki-links, for example:
 
