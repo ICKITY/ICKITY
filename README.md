@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="./public/logo.svg" alt="InkCraft Library" width="320" />
+<img src="./public/logo.svg" alt="ICKITY" width="320" />
 
-# InkCraft Library
+# ICKITY
 
 **An open source encyclopedia and publishing web application.**
 
 This is an Open Source website.
 
-[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-2ea44f?style=for-the-badge)](https://github.com/ICKITY/inkcraft-library)
-[![MIT License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://github.com/ICKITY/inkcraft-library/blob/main/LICENSE)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-2ea44f?style=for-the-badge)](https://github.com/ICKITY/ICKITY)
+[![MIT License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://github.com/ICKITY/ICKITY/blob/main/LICENSE)
 [![Vercel Deployed](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge)](https://vercel.com)
 
 </div>
 
-InkCraft Library is a complete, production-ready encyclopedia built as a lightweight single-page application. It publishes eleven full-length, unabridged, multi-paragraph Wikipedia-style articles across history, science, technology, geography, and biography — every article densely interlinked with clickable wiki-links and hover preview cards, illustrated with verified public-domain photography, and rendered in a three-column academic layout with a sticky contents sidebar, a drop-cap lead paragraph, pull quotes, a Wikipedia-style fact infobox, a topic navbox, and numbered academic references.
+ICKITY is a complete, production-ready encyclopedia built as a lightweight single-page application. It publishes eleven full-length, unabridged, multi-paragraph Wikipedia-style articles across history, science, technology, geography, and biography — every article densely interlinked with clickable wiki-links and hover preview cards, illustrated with verified public-domain photography, and rendered in a three-column academic layout with a sticky contents sidebar, a drop-cap lead paragraph, pull quotes, a Wikipedia-style fact infobox, a topic navbox, and numbered academic references.
 
-Every page of the site carries the exact browser title **InkCraft Library**. Every image is a real, verified public-domain photograph from Wikimedia Commons, NASA archives, or the Library of Congress — there is no AI-generated media anywhere in this repository. Every icon is a hand-coded SVG, and there are no emojis anywhere in the codebase, the articles, or this documentation.
+Every page of the site carries the exact browser title **ICKITY**. Every image is a real, verified public-domain photograph from Wikimedia Commons, NASA archives, or the Library of Congress — there is no AI-generated media anywhere in this repository. Every icon is a hand-coded SVG, and there are no emojis anywhere in the codebase, the articles, or this documentation.
 
 ---
 
@@ -42,7 +42,7 @@ All plates are public-domain images served from Wikimedia Commons. Full credit l
 Articles live in nested folders inside `content/`, one folder inside another, mirroring the site's URL structure exactly:
 
 ```
-inkcraft-library/
+ICKITY/
 ├── content/                          ← every article lives here
 │   ├── history/
 │   │   ├── ancient-civilizations/
@@ -201,19 +201,19 @@ Because Vite bundles all JS/CSS, view-source on any page only ever displays the 
 
 ### Hosting at the domain root (Vercel)
 
-`vercel.json` rewrites `/(.*)` to `/index.html`, so infinite nested folder routing works for every article path. Import the repository at [vercel.com/new](https://vercel.com/new), name the project `inkcraftlary`, and accept the detected Vite settings (build `npm run build`, output `dist`). The published address is `inkcraftlary.vercel.app` while the site itself remains InkCraft Library.
+`vercel.json` rewrites `/(.*)` to `/index.html`, so infinite nested folder routing works for every article path. Import the repository at [vercel.com/new](https://vercel.com/new), name the project `inkcraftlary`, and accept the detected Vite settings (build `npm run build`, output `dist`). The published address is `inkcraftlary.vercel.app` while the site itself remains ICKITY.
 
 ### Hosting under a subpath (GitHub Pages)
 
-The site is base-path aware. `vite.config.js` reads the `VITE_BASE` environment variable, so the same source builds for a `/inkcraft-library/` subpath:
+The site is base-path aware. `vite.config.js` reads the `VITE_BASE` environment variable, so the same source builds for a `/<repository-name>/` subpath (for this repository, `/ICKITY/`):
 
 ```bash
-VITE_BASE=/inkcraft-library/ npm run build
+VITE_BASE=/ICKITY/ npm run build
 ```
 
-`.github/workflows/pages.yml` does this automatically: on every push it builds with `VITE_BASE=/inkcraft-library/`, adds `404.html` (the single-page-app fallback so deep article links resolve) and `.nojekyll`, then force-pushes the output to the `gh-pages` branch.
+`.github/workflows/pages.yml` does this automatically: on every push it builds with `VITE_BASE=/<repository-name>/`, adds `404.html` (the single-page-app fallback so deep article links resolve) and `.nojekyll`, then force-pushes the output to the `gh-pages` branch.
 
-To serve it, open **Settings → Pages** for the repository and set **Source** to *Deploy from a branch*, branch `gh-pages`, folder `/(root)`. The site then appears at `https://ickity.github.io/inkcraft-library/`.
+To serve it, open **Settings → Pages** for the repository and set **Source** to *Deploy from a branch*, branch `gh-pages`, folder `/(root)`. The site then appears at `https://ickity.github.io/ICKITY/`.
 
 ### Custom domain
 
@@ -251,10 +251,10 @@ Enable **Enforce HTTPS** once the certificate is issued.
 
 - **Photography:** Wikimedia Commons, NASA archives, and the Library of Congress (public domain). Individual credit lines appear in every article caption.
 - **Documentary video:** embedded from official and documentary YouTube channels, credited in each article.
-- **Logo and icons:** hand-coded original SVG graphics created for InkCraft Library.
-- **Code, design, and editorial content:** InkCraft Library & InkCraft Social.
+- **Logo and icons:** hand-coded original SVG graphics created for ICKITY.
+- **Code, design, and editorial content:** ICKITY & InkCraft Social.
 
 Designed & Hosted, Developed by InkCraft Social
-Maintained & Hosted by InkCraft Library
+Maintained & Hosted by ICKITY
 
 This is an Open Source website. Released under the MIT License — see [LICENSE](LICENSE). Contributions are governed by the [Code of Conduct](CODE_OF_CONDUCT.md).

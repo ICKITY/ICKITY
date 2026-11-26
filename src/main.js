@@ -1,10 +1,10 @@
 import './style.css';
 
 /* ============================================================
-   InkCraft Library — single-page encyclopedia application.
-   The browser title is permanently "InkCraft Library".
+   ICKITY — single-page encyclopedia application.
+   The browser title is permanently "ICKITY".
    ============================================================ */
-document.title = 'InkCraft Library';
+document.title = 'ICKITY';
 
 const modules = import.meta.glob('../content/**/*.json', { eager: true });
 const ARTICLES = Object.values(modules)
@@ -22,7 +22,7 @@ const CATEGORIES = [
 
 const root = document.getElementById('root');
 
-/* Base path support: '/' on Vercel, '/inkcraft-library/' on GitHub Pages. */
+/* Base path support: '/' on Vercel, '/<repository-name>/' on GitHub Pages. */
 const BASE = (import.meta.env.BASE_URL || '/').replace(/\/$/, '');
 function stripBase(p) {
   return BASE && p.startsWith(BASE) ? p.slice(BASE.length) || '/' : p;
@@ -60,8 +60,8 @@ function header(active) {
   ];
   return (
     '<header class="site-header"><div class="header-inner">' +
-    '<a class="brand" href="/"><img src="/logo.svg" alt="InkCraft Library logo">' +
-    '<span><span class="brand-name">InkCraft Library</span>' +
+    '<a class="brand" href="/"><img src="/logo.svg" alt="ICKITY logo">' +
+    '<span><span class="brand-name">ICKITY</span>' +
     '<span class="brand-tag">AN OPEN SOURCE ENCYCLOPEDIA</span></span></a>' +
     '<nav class="main-nav">' +
     nav.map((n) => '<a href="' + n.href + '"' + (active === n.id ? ' class="active"' : '') + '>' + n.label + '</a>').join('') +
@@ -80,9 +80,9 @@ function footer() {
       title: 'Project',
       links: [
         { href: '/admin', label: 'Admin Studio' },
-        { href: 'https://github.com/ICKITY/inkcraft-library', label: 'GitHub Repository' },
-        { href: 'https://github.com/ICKITY/inkcraft-library/blob/main/LICENSE', label: 'MIT License' },
-        { href: 'https://github.com/ICKITY/inkcraft-library/blob/main/CODE_OF_CONDUCT.md', label: 'Code of Conduct' }
+        { href: 'https://github.com/ICKITY/ICKITY', label: 'GitHub Repository' },
+        { href: 'https://github.com/ICKITY/ICKITY/blob/main/LICENSE', label: 'MIT License' },
+        { href: 'https://github.com/ICKITY/ICKITY/blob/main/CODE_OF_CONDUCT.md', label: 'Code of Conduct' }
       ]
     },
     {
@@ -97,8 +97,8 @@ function footer() {
   ];
   return (
     '<footer class="site-footer"><div class="footer-inner"><div class="footer-top">' +
-    '<div class="footer-brand"><img src="/logo.svg" alt="InkCraft Library">' +
-    '<p>InkCraft Library is a free, open source encyclopedia of history, science, technology, geography, and biography — written in full, illustrated with verified public-domain media, and interlinked like a great library.</p>' +
+    '<div class="footer-brand"><img src="/logo.svg" alt="ICKITY">' +
+    '<p>ICKITY is a free, open source encyclopedia of history, science, technology, geography, and biography — written in full, illustrated with verified public-domain media, and interlinked like a great library.</p>' +
     '<p><strong>This is an Open Source website.</strong></p>' +
     '<div class="social-row">' +
     SOCIALS.map((s) => '<a href="' + s.url + '" target="_blank" rel="noopener" aria-label="' + s.label + ' ' + s.handle + '">' + ICONS[s.key] + '</a>').join('') +
@@ -110,10 +110,10 @@ function footer() {
       c.links.map((l) => '<li><a href="' + l.href + '">' + l.label + '</a></li>').join('') +
       '</ul></div>').join('') +
     '</div>' +
-    '<div class="footer-bottom"><span class="credits">Designed &amp; Hosted, Developed by InkCraft Social\nMaintained &amp; Hosted by InkCraft Library</span>' +
-    '<span>Copyright (c) 2026 InkCraft Library &amp; InkCraft Social. Released under the MIT License.</span></div>' +
+    '<div class="footer-bottom"><span class="credits">Designed &amp; Hosted, Developed by InkCraft Social\nMaintained &amp; Hosted by ICKITY</span>' +
+    '<span>Copyright (c) 2026 ICKITY &amp; InkCraft Social. Released under the MIT License.</span></div>' +
     '</div></footer>' +
-    '<div class="devtools-warning" id="devtoolsWarning">Developer tools detected. InkCraft Library content is protected for editorial integrity. Please close DevTools to continue reading.</div>'
+    '<div class="devtools-warning" id="devtoolsWarning">Developer tools detected. ICKITY content is protected for editorial integrity. Please close DevTools to continue reading.</div>'
   );
 }
 
@@ -133,7 +133,7 @@ function countWord(n) {
 
   return (
     header('home') +
-    '<section class="hero"><img class="hero-logo" src="/logo.svg" alt="InkCraft Library">' +
+    '<section class="hero"><img class="hero-logo" src="/logo.svg" alt="ICKITY">' +
     '<h1>The Open Source Encyclopedia</h1>' +
     '<p>' + countWord(ARTICLES.length) + ' complete, unabridged, multi-paragraph articles spanning history, science, technology, geography, and biography — every one densely interlinked, fully illustrated with verified public-domain photography, and free for everyone to read, fork, and improve.</p>' +
     '<span class="open-source">THIS IS AN OPEN SOURCE WEBSITE</span></section>' +
@@ -144,7 +144,7 @@ function countWord(n) {
     '<h2 class="section-title" id="articles">All Articles</h2>' +
     '<div class="card-grid">' + cards + '</div>' +
     '<h2 class="section-title">About This Library</h2>' +
-    '<p>InkCraft Library is an institutional-grade publishing project. Each article is stored as a structured JSON file inside nested category folders, rendered by a lightweight single-page application, and deployed to the world on Vercel. Team members can add new articles directly on GitHub — or visually, from the password-protected Admin Studio — without writing a single line of code.</p>' +
+    '<p>ICKITY is an institutional-grade publishing project. Each article is stored as a structured JSON file inside nested category folders, rendered by a lightweight single-page application, and deployed to the world on Vercel. Team members can add new articles directly on GitHub — or visually, from the password-protected Admin Studio — without writing a single line of code.</p>' +
     '<p>Every photograph on this site is a real, verified public-domain image from Wikimedia Commons, NASA archives, or the Library of Congress. Every icon is a hand-coded SVG. There is no AI-generated media and there are no emojis anywhere in this codebase.</p>' +
     '</main>' +
     footer()
@@ -211,7 +211,7 @@ function articlePage(a) {
     '<div class="toc-box"><h2>Contents</h2><ol>' + tocItems + '</ol></div>' +
     '</aside>' +
     '<main class="article-body"><h1>' + a.title + '</h1>' +
-    '<div class="subtitle">InkCraft Library · ' + a.category + ' · ' + a.subcategory + '</div>' +
+    '<div class="subtitle">ICKITY · ' + a.category + ' · ' + a.subcategory + '</div>' +
     introHtml + pull + sectionsHtml + mediaHtml +
     '</main>' +
     '<aside class="infobox"><h2 class="infobox-title">' + a.title + '</h2>' +
@@ -221,7 +221,7 @@ function articlePage(a) {
     '</div>' +
     '<section class="bottom-sections">' +
     '<h2 class="section-title">See Also</h2><div class="see-also">' + seeAlso + '</div>' +
-    '<div class="navbox"><div class="navbox-title">InkCraft Library — Encyclopedia Topic Navbox</div>' + navboxRows + '</div>' +
+    '<div class="navbox"><div class="navbox-title">ICKITY — Encyclopedia Topic Navbox</div>' + navboxRows + '</div>' +
     '<div class="references"><h2 class="section-title">References</h2><ol>' + refs + '</ol></div>' +
     '</section>' +
     footer()
@@ -233,7 +233,7 @@ function notFoundPage() {
   return (
     header('') +
     '<main class="not-found"><h1>404</h1><p>This shelf is empty. The page you requested does not exist in the library.</p>' +
-    '<p><a href="/">Return to the InkCraft Library home page</a></p></main>' +
+    '<p><a href="/">Return to the ICKITY home page</a></p></main>' +
     footer()
   );
 }
@@ -248,7 +248,7 @@ function adminPage() {
     return (
       header('admin') +
       '<main class="admin-shell"><div class="admin-gate"><h1>Admin Studio</h1>' +
-      '<p class="admin-note">This studio is restricted to the InkCraft Library editorial team. Enter the studio password to continue.</p>' +
+      '<p class="admin-note">This studio is restricted to the ICKITY editorial team. Enter the studio password to continue.</p>' +
       '<div class="field"><label for="adminPass">Studio password</label>' +
       '<input id="adminPass" type="password" autocomplete="off" placeholder="Enter password"></div>' +
       '<button class="btn" id="adminLogin">Unlock Studio</button>' +
@@ -555,7 +555,7 @@ function currentPath() {
 }
 
 function render() {
-  document.title = 'InkCraft Library';
+  document.title = 'ICKITY';
   const p = currentPath();
   let html;
   if (p === '/') html = homePage();

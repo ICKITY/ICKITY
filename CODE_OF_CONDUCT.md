@@ -1,6 +1,6 @@
-# InkCraft Library — Contributor & Editorial Code of Conduct
+# ICKITY — Contributor & Editorial Code of Conduct
 
-InkCraft Library is an open source encyclopedia built by a distributed team of
+ICKITY is an open source encyclopedia built by a distributed team of
 writers, editors, designers, and engineers. This document sets the standards
 for every contribution, whether it is a new article, a correction to an
 existing one, a design change, or a code fix. By contributing to this
@@ -8,7 +8,7 @@ repository you agree to abide by this Code of Conduct.
 
 ## 1. Our Editorial Mission
 
-InkCraft Library publishes long-form, Wikipedia-style encyclopedia articles
+ICKITY publishes long-form, Wikipedia-style encyclopedia articles
 that are accurate, neutral, and richly interlinked. Every article must be
 written in full — never as a placeholder, stub, or abbreviated summary — and
 must meet the minimum length and structure standards described in the
@@ -40,13 +40,13 @@ repository README.
 - Before adding media, contributors must verify the source page, confirm the
   license, and record the credit line in the image caption.
 - Hand-coded SVG graphics and icons are encouraged and must be original work
-  created for InkCraft Library. No emojis may be used in the codebase,
+  created for ICKITY. No emojis may be used in the codebase,
   articles, UI, or documentation; use hand-coded inline SVGs instead.
 
 ## 4. Licensing Compliance
 
 - All code and documentation in this repository is released under the MIT
-  License (see the LICENSE file, Copyright (c) 2026 InkCraft Library &
+  License (see the LICENSE file, Copyright (c) 2026 ICKITY &
   InkCraft Social).
 - Contributors retain the copyright in their contributions but grant the
   project a perpetual, worldwide, royalty-free license to use, modify, and
@@ -79,7 +79,7 @@ repository README.
   documented in the README.
 - Internal wiki-links must be dense and bidirectional: every article should
   link to related topics in the library, and be linked back from them.
-- The browser title of every page must remain exactly `InkCraft Library`.
+- The browser title of every page must remain exactly `ICKITY`.
 - Front-end protection features (anti-copy, anti-zoom, anti-inspect locks)
   must not be removed or weakened without a documented security review.
 
@@ -93,7 +93,7 @@ privileges, or a permanent ban from the project.
 
 ## 8. Attribution
 
-This Code of Conduct is maintained by InkCraft Library & InkCraft Social.
+This Code of Conduct is maintained by ICKITY & InkCraft Social.
 It is inspired by the Contributor Covenant and by the editorial policies of
 open encyclopedia projects, and is released under the same MIT License as
 the rest of this repository.
