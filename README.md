@@ -251,10 +251,12 @@ Enable **Enforce HTTPS** once the certificate is issued.
 
 - **Photography:** Wikimedia Commons, NASA archives, and the Library of Congress (public domain). Individual credit lines appear in every article caption.
 - **Documentary video:** embedded from official and documentary YouTube channels, credited in each article.
-- **Logo and icons:** hand-coded original SVG graphics created for ICKITY.
+- **Logo and icons:** hand-coded original SVG graphics created for ICKITY. `public/avatar.png` is the 512×512 square mark for the repository avatar and social preview.
 - **Code, design, and editorial content:** ICKITY & InkCraft Social.
 
 Designed & Hosted, Developed by InkCraft Social
 Maintained & Hosted by ICKITY
+
+**Contact:** [ICKITY](https://github.com/ICKITY) — [nobojitshibam@gmail.com](mailto:nobojitshibam@gmail.com)
 
 This is an Open Source website. Released under the MIT License — see [LICENSE](LICENSE). Contributions are governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
