@@ -1,0 +1,134 @@
+{
+  "slug": "history-of-computing",
+  "title": "History of Computing",
+  "category": "Technology",
+  "subcategory": "Computing",
+  "path": "/technology/computing/history-of-computing",
+  "summary": "The history of computing runs from the abacus and Babbage's mechanical engines through the electronic giants of the Second World War to the personal computer, the internet, and the quantum machines of today.",
+  "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Babbage.jpg",
+  "thumbnailCaption": "Charles Babbage, the inventor of the programmable computer, photographed in the 1860s.",
+  "infobox": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Babbage.jpg",
+    "caption": "Charles Babbage, designer of the Analytical Engine. Public domain photograph via Wikimedia Commons.",
+    "rows": [
+      {
+        "label": "Earliest tools",
+        "value": "Abacus, circa 2700 BCE; Napier's bones, 1617"
+      },
+      {
+        "label": "First design",
+        "value": "Babbage's Analytical Engine, 1837"
+      },
+      {
+        "label": "First electronic computer",
+        "value": "ENIAC, 1945"
+      },
+      {
+        "label": "First stored-program computer",
+        "value": "Manchester Baby, 1948"
+      },
+      {
+        "label": "First microprocessor",
+        "value": "Intel 4004, 1971"
+      },
+      {
+        "label": "First personal computer",
+        "value": "Altair 8800, 1975"
+      },
+      {
+        "label": "Related topics",
+        "value": "<a class='wiki-link' href='/technology/computing/world-wide-web'>World Wide Web</a>, <a class='wiki-link' href='/science/physics/quantum-mechanics'>Quantum Mechanics</a>"
+      }
+    ]
+  },
+  "intro": [
+    "The history of computing is the story of humanity's long effort to mechanise calculation, and it is one of the great epics of technology. It begins with the abacus, the counting board, and the slide rule — tools that extended the human mind for millennia — and it passes through the mechanical engines of Charles Babbage, the electronic giants of the Second World War, the transistor revolution, the personal computer, and the internet, to arrive at the quantum computers and artificial intelligence systems of today. Each stage replaced human labour with machine logic, and each stage made the next seem inevitable.",
+    "Computing is the foundation of the modern world. Every device that processes information — from the smartphone to the spacecraft — is a descendant of the machines built in the middle of the twentieth century. The <a class='wiki-link' href='/technology/computing/world-wide-web'>World Wide Web</a> runs on computers; the <a class='wiki-link' href='/science/physics/quantum-mechanics'>quantum mechanics</a> that underlies semiconductors is implemented in them; and the encyclopedia you are reading is stored, processed, and delivered by them. To understand computing is to understand the engine of civilisation.",
+    "The history of computing is also a history of ideas. The stored-program concept, the transistor, the integrated circuit, and the microprocessor were each the product of insight as much as engineering. The people who built computing — Babbage, Lovelace, Turing, von Neumann, Shockley, and thousands of engineers and programmers — created a technology that has transformed every field it touches. Their story is the story of the modern world."
+  ],
+  "sections": [
+    {
+      "level": "h2",
+      "heading": "Counting Tools: From the Abacus to the Slide Rule",
+      "paragraphs": [
+        "Computing began as counting. The abacus, invented in Babylon around 2700 BCE and refined in China, Greece, and Rome, allowed merchants to perform arithmetic with beads on rods, and it remains in use today. The counting board, the tally stick, and the quipu of the Inca Empire, which recorded information in knotted cords, extended the range of what could be counted and recorded. For millennia, the tools of calculation were physical objects that the human mind operated. The merchants of the <a class='wiki-link' href='/geography/ancient-sites/indus-valley-civilization'>Indus Valley Civilization</a> counted their trade with the same tools.",
+        "The seventeenth century produced the first mechanical calculators. John Napier's bones of 1617 turned multiplication into addition; Wilhelm Schickard built a calculating clock in 1623; Blaise Pascal's Pascaline of 1642 added numbers automatically; and Gottfried Leibniz's stepped reckoner of 1673 performed all four arithmetic operations. These machines were ingenious but impractical: they were expensive, fragile, and slower than skilled human computers. The mechanical calculator would wait two centuries for its vindication.",
+        "The slide rule, invented by William Oughtred in the 1620s, was the most successful calculating tool of the pre-electronic age. By sliding graduated scales against one another, it performed multiplication, division, and logarithms with a speed and accuracy that made it indispensable to engineers and scientists for three hundred years. The slide rule carried humanity to the moon: the Apollo guidance computers were less powerful than a modern calculator, and the slide rule was the tool of the engineers who designed the spacecraft. The slide rule carried humanity to the moon, and its engineers mapped the <a class='wiki-link' href='/science/astronomy/solar-system'>solar system</a> with it."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Babbage and the Analytical Engine",
+      "paragraphs": [
+        "Charles Babbage, the English mathematician and inventor, is the father of computing. In the 1820s, he designed the Difference Engine, a mechanical calculator that computed polynomial tables by the method of finite differences, and in 1837 he conceived the Analytical Engine, a general-purpose programmable computer. The Analytical Engine had all the essential components of a modern computer: a mill for arithmetic, a store for memory, a control unit for sequencing operations, and input and output in the form of punched cards borrowed from Jacquard's weaving looms.",
+        "Babbage never completed the Analytical Engine. The precision required for its tens of thousands of brass parts exceeded the manufacturing capabilities of his time, and funding ran out. But his design was complete and correct: had it been built, it would have been a programmable computer a century before its time. Ada Lovelace, who worked with Babbage and wrote the first algorithm intended for a machine, recognised the engine's potential and is honoured as the first programmer. The Analytical Engine is the proof that the idea of the computer preceded its technology by a hundred years.",
+        "Babbage's failure was a failure of engineering, not of vision. The mechanical age could not build what he designed, but the electronic age could. When the first electronic computers appeared in the 1940s, they implemented Babbage's architecture: a central processor, a memory store, and a program controlling the sequence of operations. The Analytical Engine waited a century for its technology, and when the technology arrived, Babbage's design was waiting for it. Babbage's vision of a universal machine echoes the ambition of the <a class='wiki-link' href='/history/ancient-civilizations/library-of-alexandria'>Library of Alexandria</a> to gather all knowledge in one place."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "The Electronic Giants: ENIAC and the Stored Program",
+      "paragraphs": [
+        "The Second World War created the demand that produced the first electronic computers. Ballistic calculations for artillery, code-breaking for cryptography, and the Manhattan Project's nuclear calculations required computations beyond human capacity. At the University of Pennsylvania, J. Presper Eckert and John Mauchly built ENIAC, completed in 1945. ENIAC had eighteen thousand vacuum tubes, occupied a room, consumed a small power station's worth of electricity, and computed a thousand times faster than any machine before it. It was the first general-purpose electronic computer, and it proved that electronics could compute.",
+        "ENIAC's limitation was its programming: it was configured by rewiring, a process that took days. The stored-program concept, proposed by John von Neumann in 1945, solved the problem by storing the program in the same memory as the data, so that the computer could modify its own instructions and branch conditionally. The Manchester Baby of 1948 was the first computer to run a stored program, and the architecture it established — the von Neumann architecture — remains the design of every computer today. The stored program is the single most important idea in computing. Turing's work, like that of <a class='wiki-link' href='/biography/scientists/albert-einstein'>Albert Einstein</a>, showed that thought alone could remake a field.",
+        "The pioneers of the electronic age were a diverse and often overlooked group. The ENIAC's first programmers were six women — Kathleen McNulty, Betty Jennings, Betty Holberton, Marlyn Wescoff, Fran Bilas, and Ruth Lichterman — who learned to program by rewiring the machine and are now recognised as the first computer programmers. Alan Turing, whose theoretical work on computability in 1936 founded computer science, built the Bombe machines that broke German codes at Bletchley Park. The electronic computer was a collective achievement, and its history is richer than its legends."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Transistors, Integrated Circuits, and the Microprocessor",
+      "paragraphs": [
+        "Vacuum tubes were hot, fragile, and power-hungry, and the computers built from them were room-sized. The transistor, invented at Bell Laboratories in 1947 by John Bardeen, Walter Brattain, and William Shockley, replaced the tube with a solid-state device that was smaller, faster, cooler, and far more reliable. Transistorised computers of the 1950s were smaller and cheaper, and the transistor made computing practical for business and government. The invention earned the Nobel Prize in Physics and founded the semiconductor industry.",
+        "The integrated circuit, invented independently by Jack Kilby and Robert Noyce in 1958 and 1959, placed multiple transistors on a single chip of silicon. The IC made it possible to build complex circuits cheaply and reliably, and it set computing on the path of exponential growth described by Moore's Law: the number of transistors on a chip doubling roughly every two years. The microprocessor, Intel's 4004 of 1971, placed an entire central processing unit on a single chip, and the personal computer followed within four years.",
+        "The personal computer democratised computing. The Altair 8800 of 1975, the Apple II of 1977, the IBM PC of 1981, and the Macintosh of 1984 brought computing from institutions to individuals. The graphical user interface, pioneered at Xerox PARC and popularised by the Macintosh, made computers usable by anyone. The personal computer, combined with the internet and the <a class='wiki-link' href='/technology/computing/world-wide-web'>World Wide Web</a>, created the information society: a world in which computing is universal, invisible, and indispensable."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "The Internet and the Software Revolution",
+      "paragraphs": [
+        "While computing was shrinking, networking was connecting. The ARPANET, created by the United States Department of Defense in 1969, linked computers at universities and research centres using packet switching, a method of breaking data into packets that could travel by different routes and be reassembled at their destination. The internet, which grew from ARPANET, is a network of networks governed by open protocols, and it is the physical foundation of the modern world. The web, email, and every online service run on it.",
+        "Software became the other half of the revolution. The first programmers wrote in machine code; the development of compilers, operating systems, and high-level languages made programming accessible. The open source movement, led by Richard Stallman and Linus Torvalds, demonstrated that software could be developed collaboratively and freely, and the Linux operating system now runs most of the world's servers. The web's open standards, the open source tools that build it, and the open encyclopedias that fill it are all products of the same philosophy: that openness creates value.",
+        "The internet and the web transformed computing from a tool into an environment. The smartphone, introduced in 2007, put a computer more powerful than Apollo's guidance system into the pockets of billions. Cloud computing moved processing into data centres, and artificial intelligence, powered by vast computing resources, began to perform tasks once thought to require human intelligence. The history of computing has reached a stage where its products are the environment in which civilisation operates."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Quantum Computing and the Future",
+      "paragraphs": [
+        "The newest chapter in the history of computing is quantum computing, which exploits the principles of <a class='wiki-link' href='/science/physics/quantum-mechanics'>quantum mechanics</a> — superposition and entanglement — to perform certain calculations exponentially faster than classical machines. Quantum computers, built from superconducting circuits, trapped ions, and photonic systems, have progressed from laboratory curiosities to prototypes that outperform classical supercomputers on specific problems. The field is young, and its practical applications are still emerging, but its promise is transformative: new materials, new medicines, and new cryptography. Quantum computers may one day simulate the <a class='wiki-link' href='/science/astronomy/black-holes'>black holes</a> that classical machines cannot model, and the theory of <a class='wiki-link' href='/science/physics/general-relativity'>general relativity</a> itself may one day be computed on quantum machines.",
+        "The future of computing will be shaped by the limits of the present. Silicon transistors are approaching atomic scales, and the exponential growth of Moore's Law is slowing. New architectures — neuromorphic chips modelled on the brain, photonic processors using light, and quantum machines using superposition — are being developed to continue the growth of computational power. Each new architecture is a return to first principles, asking what computation fundamentally is and how it can best be performed.",
+        "The history of computing, from the abacus to the quantum computer, is the history of a single idea pursued with increasing power: that calculation can be mechanised, and that mechanised calculation can transform the world. Babbage dreamed it; the electronic pioneers built it; the transistor and the integrated circuit miniaturised it; the internet connected it; and the web made it universal. The computer is the defining machine of the age, and its history is the history of the modern world."
+      ]
+    }
+  ],
+  "pullQuote": {
+    "text": "The Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.",
+    "source": "Ada Lovelace, first computer programmer, 1843"
+  },
+  "media": [
+    {
+      "type": "image",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/ENIAC.jpg",
+      "caption": "ENIAC, the first general-purpose electronic computer, photographed in 1946. Public domain photograph via Wikimedia Commons."
+    },
+    {
+      "type": "video",
+      "src": "https://www.youtube-nocookie.com/embed/EFvZl0JKlNY",
+      "caption": "Documentary: The Deep History of Computers. Embedded from YouTube."
+    }
+  ],
+  "seeAlso": [
+    "/technology/computing/world-wide-web",
+    "/science/physics/quantum-mechanics",
+    "/history/inventions/printing-press",
+    "/biography/scientists/albert-einstein"
+  ],
+  "references": [
+    "Ceruzzi, Paul E. A History of Modern Computing. MIT Press, 2003.",
+    "Aspray, William. From Mathematical Instrument to Computer. Oxford University Press, 1990.",
+    "Metropolis, Nicholas, and Gian-Carlo Rota, eds. Uncomputing: An Interview with John von Neumann. MIT Press, 1993.",
+    "Computer History Museum, computerhistory.org.",
+    "Science Museum, London, computing collection, sciencemuseum.org.uk."
+  ]
+}
