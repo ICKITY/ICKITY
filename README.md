@@ -247,6 +247,17 @@ Enable **Enforce HTTPS** once the certificate is issued.
 
 ---
 
+## Repository Identity
+
+| Item | Value |
+|---|---|
+| GitHub account | [ICKITY](https://github.com/ICKITY) |
+| Commit and contact email | `360687152+ICKITY@users.noreply.github.com` — the GitHub-provided noreply address. No personal email address is stored anywhere in this repository. |
+| Repository avatar and social preview | Upload [`public/avatar.png`](public/avatar.png) (512 × 512) under **Settings → General → Social preview** |
+| Logo | [`public/logo.svg`](public/logo.svg) — the ICKITY monogram: a serif I whose foot becomes a fountain-pen nib |
+| Favicon | [`public/favicon.svg`](public/favicon.svg) |
+| Contributors | Every commit on the default branch is authored `ICKITY <360687152+ICKITY@users.noreply.github.com>`, with no co-author trailers, so the contributor list shows only the project account. |
+
 ## Credits
 
 - **Photography:** Wikimedia Commons, NASA archives, and the Library of Congress (public domain). Individual credit lines appear in every article caption.
