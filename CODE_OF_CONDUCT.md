@@ -86,7 +86,7 @@ repository README.
 ## 7. Enforcement
 
 Reports of violations may be sent to the maintainers through the repository
-issue tracker. Maintainers will investigate every report, protect the
+issue tracker, or by email to [360687152+ICKITY@users.noreply.github.com](mailto:360687152+ICKITY@users.noreply.github.com). Maintainers will investigate every report, protect the
 reporter's privacy, and apply proportionate remedies, which may include a
 warning, removal of the contribution, temporary suspension of contribution
 privileges, or a permanent ban from the project.

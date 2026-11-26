@@ -1,6 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ICKITY favicon">
-  <rect x="2" y="2" width="60" height="60" rx="10" fill="#0b1d3a" stroke="#f2c14e" stroke-width="3"/>
-  <path d="M 12 20 C 20 16 27 16 32 20 C 37 16 44 16 52 20 L 52 44 C 44 40 37 40 32 44 C 27 40 20 40 12 44 Z" fill="#f7f3e8"/>
-  <path d="M 32 20 L 32 44" stroke="#b8860b" stroke-width="2"/>
-  <path d="M 32 4 L 37 14 L 34 14 L 34 20 L 30 20 L 30 14 L 27 14 Z" fill="#f2c14e"/>
+  <title>ICKITY</title>
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="#0f1b33"/>
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="none" stroke="#c9a227" stroke-width="2.5"/>
+  <rect x="19" y="14" width="26" height="5" rx="1" fill="#f7f3e8"/>
+  <rect x="29.5" y="14" width="5" height="27" fill="#f7f3e8"/>
+  <rect x="19" y="36" width="26" height="5" rx="1" fill="#f7f3e8"/>
+  <path d="M32 43 L36.5 49.5 L32 58 L27.5 49.5 Z" fill="#c9a227"/>
+  <circle cx="32" cy="50" r="1.6" fill="#0f1b33"/>
 </svg>

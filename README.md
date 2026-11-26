@@ -247,14 +247,27 @@ Enable **Enforce HTTPS** once the certificate is issued.
 
 ---
 
+## Repository Identity
+
+| Item | Value |
+|---|---|
+| GitHub account | [ICKITY](https://github.com/ICKITY) |
+| Commit and contact email | `360687152+ICKITY@users.noreply.github.com` — the GitHub-provided noreply address. No personal email address is stored anywhere in this repository. |
+| Repository avatar and social preview | Upload [`public/avatar.png`](public/avatar.png) (512 × 512) under **Settings → General → Social preview** |
+| Logo | [`public/logo.svg`](public/logo.svg) — the ICKITY monogram: a serif I whose foot becomes a fountain-pen nib |
+| Favicon | [`public/favicon.svg`](public/favicon.svg) |
+| Contributors | Every commit on the default branch is authored `ICKITY <360687152+ICKITY@users.noreply.github.com>`, with no co-author trailers, so the contributor list shows only the project account. |
+
 ## Credits
 
 - **Photography:** Wikimedia Commons, NASA archives, and the Library of Congress (public domain). Individual credit lines appear in every article caption.
 - **Documentary video:** embedded from official and documentary YouTube channels, credited in each article.
-- **Logo and icons:** hand-coded original SVG graphics created for ICKITY.
+- **Logo and icons:** hand-coded original SVG graphics created for ICKITY. `public/avatar.png` is the 512×512 square mark for the repository avatar and social preview.
 - **Code, design, and editorial content:** ICKITY & InkCraft Social.
 
 Designed & Hosted, Developed by InkCraft Social
 Maintained & Hosted by ICKITY
+
+**Contact:** [ICKITY](https://github.com/ICKITY) — [360687152+ICKITY@users.noreply.github.com](mailto:360687152+ICKITY@users.noreply.github.com)
 
 This is an Open Source website. Released under the MIT License — see [LICENSE](LICENSE). Contributions are governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
