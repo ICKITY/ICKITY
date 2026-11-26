@@ -205,15 +205,25 @@ Because Vite bundles all JS/CSS, view-source on any page only ever displays the 
 
 ### Hosting under a subpath (GitHub Pages)
 
-The site is base-path aware. `vite.config.js` reads the `VITE_BASE` environment variable, so the same source builds for a `/<repository-name>/` subpath (for this repository, `/ICKITY/`):
+The site is base-path aware. `vite.config.js` reads the `VITE_BASE` environment variable, so the same source builds for any subpath:
 
 ```bash
-VITE_BASE=/ICKITY/ npm run build
+VITE_BASE=/en/ npm run build     # or: npm run build:en
 ```
 
-`.github/workflows/pages.yml` does this automatically: on every push it builds with `VITE_BASE=/<repository-name>/`, adds `404.html` (the single-page-app fallback so deep article links resolve) and `.nojekyll`, then force-pushes the output to the `gh-pages` branch.
+`.github/workflows/pages.yml` builds with `VITE_BASE=/${{ github.event.repository.name }}/`, adds `404.html` (the single-page-app fallback so deep article links resolve) and `.nojekyll`, then force-pushes the output to the `gh-pages` branch.
 
-To serve it, open **Settings → Pages** for the repository and set **Source** to *Deploy from a branch*, branch `gh-pages`, folder `/(root)`. The site then appears at `https://ickity.github.io/ICKITY/`.
+**The served path is the repository name.** GitHub publishes a project site at `https://<account>.github.io/<repository-name>/`, so the address has to match the repository that holds the build:
+
+| Repository name | Published URL |
+|---|---|
+| `ICKITY` | `https://ickity.github.io/ICKITY/` |
+| `en` | `https://ickity.github.io/en/` |
+| `ICKITY.github.io` (user site, build in an `en/` folder) | `https://ickity.github.io/en/` |
+
+To publish at `https://ickity.github.io/en/`, either rename this repository to `en` (Settings → General → Repository name) — the workflow reads the name, so the base path follows automatically — or keep the project repository and publish the build from the user-site repository inside an `en/` folder.
+
+Finally, under **Settings → Pages**, set **Source** to *Deploy from a branch*, branch `gh-pages`, folder `/(root)`.
 
 ### Custom domain
 
