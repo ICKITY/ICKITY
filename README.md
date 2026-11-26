@@ -14,7 +14,7 @@ This is an Open Source website.
 
 </div>
 
-InkCraft Library is a complete, production-ready encyclopedia built as a lightweight single-page application. It publishes ten full-length, unabridged, multi-paragraph Wikipedia-style articles across history, science, technology, geography, and biography — every article densely interlinked with clickable wiki-links and hover preview cards, illustrated with verified public-domain photography, and rendered in a three-column academic layout with a sticky contents sidebar, a drop-cap lead paragraph, pull quotes, a Wikipedia-style fact infobox, a topic navbox, and numbered academic references.
+InkCraft Library is a complete, production-ready encyclopedia built as a lightweight single-page application. It publishes eleven full-length, unabridged, multi-paragraph Wikipedia-style articles across history, science, technology, geography, and biography — every article densely interlinked with clickable wiki-links and hover preview cards, illustrated with verified public-domain photography, and rendered in a three-column academic layout with a sticky contents sidebar, a drop-cap lead paragraph, pull quotes, a Wikipedia-style fact infobox, a topic navbox, and numbered academic references.
 
 Every page of the site carries the exact browser title **InkCraft Library**. Every image is a real, verified public-domain photograph from Wikimedia Commons, NASA archives, or the Library of Congress — there is no AI-generated media anywhere in this repository. Every icon is a hand-coded SVG, and there are no emojis anywhere in the codebase, the articles, or this documentation.
 
@@ -65,7 +65,8 @@ inkcraft-library/
 │   │       └── indus-valley-civilization.json
 │   └── biography/
 │       └── scientists/
-│           └── albert-einstein.json
+│           ├── albert-einstein.json
+│           └── oppenheimer.json
 ├── public/
 │   ├── logo.svg
 │   └── favicon.svg
@@ -84,7 +85,7 @@ The route of an article is its folder path: `content/history/ancient-civilizatio
 
 ---
 
-## The Ten Articles
+## The Eleven Articles
 
 | # | Article | Route |
 |---|---|---|
@@ -98,6 +99,7 @@ The route of an article is its folder path: `content/history/ancient-civilizatio
 | 8 | History of Computing | `/technology/computing/history-of-computing` |
 | 9 | Indus Valley Civilization | `/geography/ancient-sites/indus-valley-civilization` |
 | 10 | Albert Einstein | `/biography/scientists/albert-einstein` |
+| 11 | Oppenheimer | `/biography/scientists/oppenheimer` |
 
 Every article contains 1,200+ words of full explanatory prose: three rich introductory paragraphs followed by six detailed H2/H3 sections of three to four paragraphs each. Inside the body paragraphs, mentions of the other topics are wrapped in interactive wiki-links, for example:
 
@@ -195,7 +197,39 @@ npm run dev      # local dev server on http://localhost:5173
 npm run build    # production build into dist/ (minified JS/CSS)
 ```
 
-Deployment is via Vercel: `vercel.json` rewrites `/(.*)` to `/index.html`, so infinite nested folder routing works for every article path. Because Vite bundles all JS/CSS, view-source on any page only ever displays the 16-line `index.html`.
+Because Vite bundles all JS/CSS, view-source on any page only ever displays the 16-line `index.html`.
+
+### Hosting at the domain root (Vercel)
+
+`vercel.json` rewrites `/(.*)` to `/index.html`, so infinite nested folder routing works for every article path. Import the repository at [vercel.com/new](https://vercel.com/new), name the project `inkcraftlary`, and accept the detected Vite settings (build `npm run build`, output `dist`). The published address is `inkcraftlary.vercel.app` while the site itself remains InkCraft Library.
+
+### Hosting under a subpath (GitHub Pages)
+
+The site is base-path aware. `vite.config.js` reads the `VITE_BASE` environment variable, so the same source builds for a `/inkcraft-library/` subpath:
+
+```bash
+VITE_BASE=/inkcraft-library/ npm run build
+```
+
+`.github/workflows/pages.yml` does this automatically: on every push it builds with `VITE_BASE=/inkcraft-library/`, adds `404.html` (the single-page-app fallback so deep article links resolve) and `.nojekyll`, then force-pushes the output to the `gh-pages` branch.
+
+To serve it, open **Settings → Pages** for the repository and set **Source** to *Deploy from a branch*, branch `gh-pages`, folder `/(root)`. The site then appears at `https://ickity.github.io/inkcraft-library/`.
+
+### Custom domain
+
+**GitHub Pages:** add the domain under **Settings → Pages → Custom domain**, then create these DNS records at the registrar:
+
+| Type | Name | Value |
+|---|---|---|
+| A | `@` | `185.199.108.153` |
+| A | `@` | `185.199.109.153` |
+| A | `@` | `185.199.110.153` |
+| A | `@` | `185.199.111.153` |
+| CNAME | `www` | `ickity.github.io` |
+
+Enable **Enforce HTTPS** once the certificate is issued.
+
+**Vercel:** add the domain under **Project → Settings → Domains**, then point the apex `A` record to `76.76.21.21` and the `www` `CNAME` to `cname.vercel-dns.com`.
 
 ---
 

@@ -22,6 +22,12 @@ const CATEGORIES = [
 
 const root = document.getElementById('root');
 
+/* Base path support: '/' on Vercel, '/inkcraft-library/' on GitHub Pages. */
+const BASE = (import.meta.env.BASE_URL || '/').replace(/\/$/, '');
+function stripBase(p) {
+  return BASE && p.startsWith(BASE) ? p.slice(BASE.length) || '/' : p;
+}
+
 /* ---------- SVG icon helpers (hand-coded, zero emojis) ---------- */
 const ICONS = {
   x: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.9 2H22l-6.8 7.8L23.3 22h-6.3l-4.9-6.4L6.5 22H3.4l7.3-8.3L2.7 2h6.4l4.4 5.9L18.9 2zm-1.1 18h1.7L7.1 3.9H5.3L17.8 20z"/></svg>',
@@ -120,11 +126,16 @@ function homePage() {
     '<p>' + a.summary + '</p>' +
     '<a class="read-link" href="' + a.path + '">Read the full article</a></div></article>'
   ).join('');
+function countWord(n) {
+  const words = ['Zero', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine', 'Ten', 'Eleven', 'Twelve', 'Thirteen', 'Fourteen', 'Fifteen', 'Sixteen', 'Seventeen', 'Eighteen', 'Nineteen', 'Twenty'];
+  return words[n] || String(n);
+}
+
   return (
     header('home') +
     '<section class="hero"><img class="hero-logo" src="/logo.svg" alt="InkCraft Library">' +
     '<h1>The Open Source Encyclopedia</h1>' +
-    '<p>Ten complete, unabridged, multi-paragraph articles spanning history, science, technology, geography, and biography — every one densely interlinked, fully illustrated with verified public-domain photography, and free for everyone to read, fork, and improve.</p>' +
+    '<p>' + countWord(ARTICLES.length) + ' complete, unabridged, multi-paragraph articles spanning history, science, technology, geography, and biography — every one densely interlinked, fully illustrated with verified public-domain photography, and free for everyone to read, fork, and improve.</p>' +
     '<span class="open-source">THIS IS AN OPEN SOURCE WEBSITE</span></section>' +
     '<main class="wrap"><h2 class="section-title">Browse by Category</h2>' +
     '<div class="cat-strip">' +
@@ -562,7 +573,7 @@ document.addEventListener('click', (e) => {
   const href = a.getAttribute('href');
   if (href.startsWith('//')) return;
   e.preventDefault();
-  if (href === currentPath()) return;
+  if (stripBase(href) === currentPath()) return;
   window.history.pushState({}, '', href);
   render();
 });
