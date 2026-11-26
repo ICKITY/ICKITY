@@ -195,7 +195,39 @@ npm run dev      # local dev server on http://localhost:5173
 npm run build    # production build into dist/ (minified JS/CSS)
 ```
 
-Deployment is via Vercel: `vercel.json` rewrites `/(.*)` to `/index.html`, so infinite nested folder routing works for every article path. Because Vite bundles all JS/CSS, view-source on any page only ever displays the 16-line `index.html`.
+Because Vite bundles all JS/CSS, view-source on any page only ever displays the 16-line `index.html`.
+
+### Hosting at the domain root (Vercel)
+
+`vercel.json` rewrites `/(.*)` to `/index.html`, so infinite nested folder routing works for every article path. Import the repository at [vercel.com/new](https://vercel.com/new), name the project `inkcraftlary`, and accept the detected Vite settings (build `npm run build`, output `dist`). The published address is `inkcraftlary.vercel.app` while the site itself remains InkCraft Library.
+
+### Hosting under a subpath (GitHub Pages)
+
+The site is base-path aware. `vite.config.js` reads the `VITE_BASE` environment variable, so the same source builds for a `/inkcraft-library/` subpath:
+
+```bash
+VITE_BASE=/inkcraft-library/ npm run build
+```
+
+`.github/workflows/pages.yml` does this automatically: on every push it builds with `VITE_BASE=/inkcraft-library/`, adds `404.html` (the single-page-app fallback so deep article links resolve) and `.nojekyll`, then force-pushes the output to the `gh-pages` branch.
+
+To serve it, open **Settings → Pages** for the repository and set **Source** to *Deploy from a branch*, branch `gh-pages`, folder `/(root)`. The site then appears at `https://ickity.github.io/inkcraft-library/`.
+
+### Custom domain
+
+**GitHub Pages:** add the domain under **Settings → Pages → Custom domain**, then create these DNS records at the registrar:
+
+| Type | Name | Value |
+|---|---|---|
+| A | `@` | `185.199.108.153` |
+| A | `@` | `185.199.109.153` |
+| A | `@` | `185.199.110.153` |
+| A | `@` | `185.199.111.153` |
+| CNAME | `www` | `ickity.github.io` |
+
+Enable **Enforce HTTPS** once the certificate is issued.
+
+**Vercel:** add the domain under **Project → Settings → Domains**, then point the apex `A` record to `76.76.21.21` and the `www` `CNAME` to `cname.vercel-dns.com`.
 
 ---
 
