@@ -83,7 +83,7 @@ function footer() {
         { href: 'https://github.com/ICKITY/ICKITY', label: 'GitHub Repository' },
         { href: 'https://github.com/ICKITY/ICKITY/blob/main/LICENSE', label: 'MIT License' },
         { href: 'https://github.com/ICKITY/ICKITY/blob/main/CODE_OF_CONDUCT.md', label: 'Code of Conduct' },
-        { href: 'mailto:nobojitshibam@gmail.com', label: 'Contact: nobojitshibam@gmail.com' }
+        { href: 'mailto:360687152+ICKITY@users.noreply.github.com', label: 'Contact' }
       ]
     },
     {
