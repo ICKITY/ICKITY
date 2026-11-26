@@ -126,11 +126,16 @@ function homePage() {
     '<p>' + a.summary + '</p>' +
     '<a class="read-link" href="' + a.path + '">Read the full article</a></div></article>'
   ).join('');
+function countWord(n) {
+  const words = ['Zero', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine', 'Ten', 'Eleven', 'Twelve', 'Thirteen', 'Fourteen', 'Fifteen', 'Sixteen', 'Seventeen', 'Eighteen', 'Nineteen', 'Twenty'];
+  return words[n] || String(n);
+}
+
   return (
     header('home') +
     '<section class="hero"><img class="hero-logo" src="/logo.svg" alt="InkCraft Library">' +
     '<h1>The Open Source Encyclopedia</h1>' +
-    '<p>Ten complete, unabridged, multi-paragraph articles spanning history, science, technology, geography, and biography — every one densely interlinked, fully illustrated with verified public-domain photography, and free for everyone to read, fork, and improve.</p>' +
+    '<p>' + countWord(ARTICLES.length) + ' complete, unabridged, multi-paragraph articles spanning history, science, technology, geography, and biography — every one densely interlinked, fully illustrated with verified public-domain photography, and free for everyone to read, fork, and improve.</p>' +
     '<span class="open-source">THIS IS AN OPEN SOURCE WEBSITE</span></section>' +
     '<main class="wrap"><h2 class="section-title">Browse by Category</h2>' +
     '<div class="cat-strip">' +
