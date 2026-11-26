@@ -1,0 +1,143 @@
+{
+  "slug": "oppenheimer",
+  "title": "Oppenheimer",
+  "category": "Biography",
+  "subcategory": "Scientists",
+  "path": "/biography/scientists/oppenheimer",
+  "summary": "J. Robert Oppenheimer (1904-1967) was the American theoretical physicist who directed the Los Alamos Laboratory during the Second World War and led the design of the first nuclear weapons. He later became the most prominent scientific critic of the arms race he had helped to start.",
+  "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/JROppenheimer-LosAlamos.jpg",
+  "thumbnailCaption": "Oppenheimer in 1944. Public domain photograph, U.S. Department of Energy, via Wikimedia Commons.",
+  "infobox": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JROppenheimer-LosAlamos.jpg",
+    "caption": "J. Robert Oppenheimer, official portrait as director of Los Alamos, 1944. Public domain photograph, U.S. Department of Energy, via Wikimedia Commons.",
+    "rows": [
+      {
+        "label": "Born",
+        "value": "22 April 1904, New York City, USA"
+      },
+      {
+        "label": "Died",
+        "value": "18 February 1967, Princeton, New Jersey, USA"
+      },
+      {
+        "label": "Field",
+        "value": "Theoretical physics, nuclear physics"
+      },
+      {
+        "label": "Doctoral advisor",
+        "value": "Max Born, University of Göttingen"
+      },
+      {
+        "label": "Major works",
+        "value": "Born-Oppenheimer approximation (1927), positron theory (1933), Oppenheimer-Phillips process (1935), gravitational collapse and the TOV limit (1939)"
+      },
+      {
+        "label": "Wartime role",
+        "value": "Director, Los Alamos Laboratory, 1943-1945"
+      },
+      {
+        "label": "Later posts",
+        "value": "Chairman, General Advisory Committee of the AEC, 1947-1952; Director, Institute for Advanced Study, 1947-1966"
+      },
+      {
+        "label": "Awards",
+        "value": "Enrico Fermi Award, 1963"
+      },
+      {
+        "label": "Related topics",
+        "value": "<a class='wiki-link' href='/biography/scientists/albert-einstein'>Albert Einstein</a>, <a class='wiki-link' href='/science/physics/quantum-mechanics'>Quantum Mechanics</a>, <a class='wiki-link' href='/science/astronomy/black-holes'>Black Holes</a>"
+      }
+    ]
+  },
+  "intro": [
+    "J. Robert Oppenheimer, born Julius Robert Oppenheimer on 22 April 1904 in New York City, was an American theoretical physicist and the scientific director of the Manhattan Project's Los Alamos Laboratory during the Second World War. He is widely known as the father of the atomic bomb for overseeing the research and design of the first nuclear weapons, tested at Trinity on 16 July 1945 and used against Hiroshima and Nagasaki three weeks later.",
+    "Educated at Harvard and at the University of Göttingen, where he took his doctorate under Max Born in 1927, Oppenheimer spent the 1930s at Berkeley and Caltech, helping to build an American school of theoretical physics. His work on the <a class='wiki-link' href='/science/physics/quantum-mechanics'>quantum mechanics</a> of molecules, on cosmic rays, on the positron, and on the gravitational collapse of massive stars remains part of the foundation of modern physics.",
+    "After the war he chaired the General Advisory Committee of the Atomic Energy Commission and argued for international control of nuclear power, and he opposed the hydrogen bomb on both technical and moral grounds. That position, together with his earlier associations with left-wing political circles, led to a security hearing in 1954 and the revocation of his clearance. He continued to write and teach at the Institute for Advanced Study until his death from throat cancer on 18 February 1967, aged 62."
+  ],
+  "sections": [
+    {
+      "level": "h2",
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Oppenheimer was born into a wealthy and cultivated family. His father Julius arrived from Germany in 1888 and made a fortune in the textile trade; his mother Ella Friedman was a painter. The household was secular, artistic, and demanding, and the boy was educated at the Ethical Culture Society school in Manhattan, where he was recognised as formidably gifted in languages, literature, and science. A bout of colitis in his teens took him to New Mexico for a cure, and the mesas and canyons of the Pajarito Plateau, where Los Alamos would later stand, made a permanent impression on him.",
+        "He entered Harvard in 1922 and finished in 1925 with a degree in chemistry, summa cum laude, after a course of study that also covered physics, classics, and philosophy. He then went to Cambridge expecting to work under Ernest Rutherford and was instead assigned to a laboratory bench, where his clumsiness and unhappiness convinced him that his future lay in theory rather than experiment. A paper he wrote there so impressed Max Born that Born invited him to Göttingen, then the world centre of the new quantum theory.",
+        "At Göttingen Oppenheimer worked alongside Born, Werner Heisenberg, Paul Dirac, and Enrico Fermi, and took his doctorate in 1927 at the age of 23. He immediately became known for the paper in which he and Born separated the motion of electrons from that of nuclei in a molecule, a separation now called the Born-Oppenheimer approximation, which remains the starting point of almost all molecular physics and chemistry. He returned to the United States with a reputation as one of the most brilliant of the new generation of theorists."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Berkeley and the American School of Physics",
+      "paragraphs": [
+        "From 1929 Oppenheimer held joint appointments at the University of California, Berkeley, and the California Institute of Technology, and it was at Berkeley that he made his permanent home as a teacher. He became a full professor in 1936. His lectures were delivered in an elegant, fastidious murmur, full of philosophy and allusion, and a whole cohort of American physicists, among them Hans Bethe, Robert Serber, Edward Teller, and his own students, remembered him as the most inspiring teacher they had ever encountered.",
+        "His research covered an extraordinary range. He explained the process by which a nucleus can capture a deuteron while emitting a proton, now called the Oppenheimer-Phillips process, a key step in understanding nuclear fusion. He worked on the theory of the positron and on quantum electrodynamics, and with his students he built a theory of cosmic ray showers, the cascades of particles produced when high-energy radiation strikes the atmosphere. These were papers at the frontier of physics rather than the kind of systematic programme that wins prizes, and Oppenheimer never received a Nobel Prize.",
+        "With George Volkoff in 1939 he calculated the maximum mass of a neutron star, the Tolman-Oppenheimer-Volkoff limit, and in the same year, with Hartland Snyder, he showed that a sufficiently massive star must collapse without limit. That paper contained the essential physics of the <a class='wiki-link' href='/science/astronomy/black-holes'>black hole</a>, decades before such objects were observed, and it is one of the reasons his reputation has grown in the century since."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "The Manhattan Project and Los Alamos",
+      "paragraphs": [
+        "The discovery of nuclear fission in 1938 turned the small world of theoretical physics into a strategic industry. In October 1942 the army engineer Leslie Groves, who had just taken charge of the Manhattan Project, interviewed Oppenheimer and chose him to direct a new central laboratory, despite his lack of administrative experience and the misgivings of the security services about his politics. Oppenheimer proposed a remote site in New Mexico, close to the landscape of his boyhood, and the laboratory was built behind a fence on the Pajarito Plateau at Los Alamos.",
+        "The laboratory opened in 1943 and grew to several thousand scientists, engineers, and technicians. Oppenheimer's achievement was organisational as much as scientific: he gathered theorists, experimenters, and army officers into a single community, ran a weekly colloquium in which every problem was exposed to every specialist, split the work into divisions on explosives, metallurgy, ordnance, and computation, and personally chaired the coordination meetings that kept a dozen simultaneous crises from destroying the schedule. Teller, who wanted to pursue the hydrogen bomb instead, and John von Neumann, who helped design the explosive lenses, both worked under his direction.",
+        "The central problem was how to detonate a plutonium core quickly and symmetrically. Oppenheimer reorganised the laboratory around that single goal in 1944 and put George Kistiakowsky in charge of the implosion explosives. The result was tested as Trinity at 05:29 on 16 July 1945 on the Jornada del Muerto desert, with a yield of roughly twenty kilotons. Oppenheimer later described the moment, in an interview in 1965, by recalling a line from the Bhagavad-Gita: now I am become Death, the destroyer of worlds."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Hiroshima, Nagasaki, and the Politics of the Atom",
+      "paragraphs": [
+        "In August 1945 the uranium bomb Little Boy was dropped on Hiroshima on 6 August and the plutonium bomb Fat Man on Nagasaki on 9 August. These remain the only use of nuclear weapons in war, and they killed well over a hundred thousand people by the end of the year, most of them civilians. Oppenheimer had taken part in the targeting discussions and, unlike some of his colleagues, did not sign the Franck Report or the petition urging a demonstration before use; the decisions were made by political and military leaders, but he never afterwards pretended that the scientists bore no responsibility.",
+        "He resigned from Los Alamos in October 1945, and in 1947 he became director of the Institute for Advanced Study in Princeton, the post held by <a class='wiki-link' href='/biography/scientists/albert-einstein'>Albert Einstein</a>, and chairman of the General Advisory Committee of the newly created Atomic Energy Commission. In those years he argued for international control of atomic energy, supporting the Baruch Plan for an international authority, and he became the most visible public voice of the scientific conscience in the atomic age, writing and lecturing widely on the ethics of nuclear weapons.",
+        "In 1949, when President Truman asked whether to build a thermonuclear weapon, the General Advisory Committee, under Oppenheimer's chairmanship, answered no: the hydrogen bomb was not technically certain, would be vastly more destructive than the fission bomb, and would set off a limitless arms race. A majority of the committee, including Oppenheimer, held that the weapon was so terrible that its development would be a moral failure. The advice was rejected, and the decision to build the hydrogen bomb, followed by the Soviet test of 1949, set the two superpowers on the path of the Cold War arms race."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "The 1954 Security Hearing",
+      "paragraphs": [
+        "Oppenheimer's opposition to the hydrogen bomb made him enemies among those who wanted it: Edward Teller, the air force, and Lewis Strauss, then chairman of the Atomic Energy Commission. His past associations were turned into a weapon. In 1953 he was named in the letter of an army sergeant, and the FBI file compiled since 1941, full of his friendships with Communist Party members in the 1930s, his support for Republican Spain, and his relationship with the psychiatrist Jean Tatlock, was placed before a specially constituted Personnel Security Board.",
+        "The hearings of April and May 1954 were held in a closed room in Washington; the transcript ran to nearly a thousand pages, and Oppenheimer was interrogated by his former colleagues. The board concluded that he was loyal but that his character and associations made him a security risk, and the commission revoked his clearance days before it expired. The FBI had tapped his phone for years; the scientific establishment largely abandoned him. He returned to Princeton, resumed his directorship of the institute, and never again held a government appointment.",
+        "His rehabilitation came in stages. In 1963 President Kennedy announced that Oppenheimer would receive the Enrico Fermi Award, and after Kennedy's assassination President Johnson presented it in December 1963, calling him a loyal citizen. In December 2022 the Department of Energy formally vacated the 1954 decision, stating that the process had been flawed and that the hearing had not been fair. The episode is now taught as a case study in the use of loyalty proceedings against independent scientific advice.",
+        "The institute's other great ornament was his own conversation. Oppenheimer read Sanskrit, composed verse, quoted Baudelaire and Donne across a dinner table, collected modern art, and made Princeton a place where physicists, historians, and poets met on equal terms. Visitors remembered the long evenings at his house on the institute grounds, the martinis and the cigarettes, and the sense that intellectual life was a single continuous enterprise. He wrote little in these years, and the papers he did publish were essays and lectures rather than research, but his influence on the culture of American science was at its height."
+      ]
+    },
+    {
+      "level": "h2",
+      "heading": "Scientific Legacy and the Moral Question",
+      "paragraphs": [
+        "Oppenheimer's physics has proved durable. The Born-Oppenheimer approximation underpins modern chemistry and the design of lasers and semiconductors; the neutron star mass limit bears his name; the 1939 paper with Snyder is a founding document of gravitational collapse and therefore of <a class='wiki-link' href='/science/astronomy/black-holes'>black hole</a> research, which today is confirmed by gravitational wave astronomy. His work on cosmic rays and quantum electrodynamics contributed to problems later solved by Richard Feynman, Julian Schwinger, and Sin-Itiro Tomonaga.",
+        "As a builder of institutions his influence was equally large. He made Berkeley a centre of theoretical physics, shaped the Institute for Advanced Study into a home for figures such as Einstein, and created the model of the large wartime laboratory that has since become the standard form of organised science. Many of the physicists he trained or directed, including fourteen Nobel laureates among his students and collaborators, carried his style of physics around the world.",
+        "The moral question that surrounds him has never been settled. He was a man of extraordinary culture, wit, and generosity who led the construction of a weapon of unprecedented destruction, argued afterwards for restraint, and was punished for those arguments. He called himself, in later years, a destroyer of worlds and also a loyal American, and historians continue to disagree about how far he was responsible for the bombings and how far he was a far-sighted critic of the arms race. The <a class='wiki-link' href='/science/physics/general-relativity'>general relativity</a> and <a class='wiki-link' href='/science/physics/quantum-mechanics'>quantum mechanics</a> he worked on remain the two pillars of physics; the political choices he faced remain the two poles of any discussion of science and power.",
+        "Oppenheimer's last years were quieter than his middle ones. He lectured widely, travelled, wrote on science and society, and watched from Princeton as the arms race moved through the hydrogen bomb, the intercontinental missile, and the nuclear test ban treaty of 1963, whose negotiation he had urged for a decade. He had been a smoker of extraordinary persistence all his life; cancer of the throat was diagnosed in 1965 and he died in February 1967, and his ashes were scattered near the beach at Saint John in the Virgin Islands, where he had kept a house."
+      ]
+    }
+  ],
+  "pullQuote": {
+    "text": "We knew the world would not be the same. A few people laughed, a few people cried, most people were silent. I remembered the line from the Hindu scripture, the Bhagavad-Gita. Vishnu is trying to persuade the Prince that he should do his duty and to impress him takes on his multi-armed form and says, “Now, I am become Death, the destroyer of worlds.” I suppose we all thought that, one way or another.",
+    "source": "J. Robert Oppenheimer, recalling the Trinity test, NBC interview, 1965"
+  },
+  "media": [
+    {
+      "type": "image",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Einstein%20oppenheimer.jpg",
+      "caption": "Oppenheimer with Albert Einstein at the Institute for Advanced Study in Princeton, photographed in the years after the war. Public domain photograph via Wikimedia Commons."
+    },
+    {
+      "type": "video",
+      "src": "https://www.youtube-nocookie.com/embed/-JWxIVVeV98",
+      "caption": "Documentary: Oppenheimer and the decision to drop the bomb (NBC News, 1965), including Oppenheimer's own recollection of the Trinity test. Embedded from YouTube."
+    }
+  ],
+  "seeAlso": [
+    "/biography/scientists/albert-einstein",
+    "/science/physics/quantum-mechanics",
+    "/science/physics/general-relativity",
+    "/science/astronomy/black-holes"
+  ],
+  "references": [
+    "Bird, Kai, and Martin J. Sherwin. American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer. Knopf, 2005.",
+    "Rhodes, Richard. The Making of the Atomic Bomb. Simon & Schuster, 1986.",
+    "Smith, Alice Kimball, and Charles Weiner, eds. Robert Oppenheimer: Letters and Recollections. Harvard University Press, 1980.",
+    "U.S. Department of Energy. Secretary of Energy Vacates the 1954 Atomic Energy Commission Decision on J. Robert Oppenheimer. Washington, 16 December 2022."
+  ]
+}
